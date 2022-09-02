@@ -1,0 +1,199 @@
+Mon 25 Jul 23:04:24 BST 2022
+File_name = 20220725_230420/str_64_1
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 13:27:20 - Jul  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+9Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 1000000
+branch.mispredict: 2
+branch.missrate: 0.0002%
+cycles: 1000036
+decode.earlyFlushes: 0
+dispatch.rsStalls: 0
+fetch.branchStalls: 1000005
+flushes: 2
+ipc: 4
+issue.backendStalls: 2
+issue.frontendStalls: 16
+issue.portBusyStalls: 0
+lsq.loadViolations: 1
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 4000017
+
+Finished 1000036 ticks in 1430ms (699 kHz, 2.8 MIPS)
+File_name = 20220725_230420/str_64_2
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 13:27:20 - Jul  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+9Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 1000000
+branch.mispredict: 2
+branch.missrate: 0.0002%
+cycles: 1000037
+decode.earlyFlushes: 0
+dispatch.rsStalls: 0
+fetch.branchStalls: 1000005
+flushes: 2
+ipc: 5
+issue.backendStalls: 2
+issue.frontendStalls: 17
+issue.portBusyStalls: 0
+lsq.loadViolations: 1
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 5000017
+
+Finished 1000037 ticks in 1890ms (529 kHz, 2.6 MIPS)
+File_name = 20220725_230420/str_64_3
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 13:27:20 - Jul  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+9Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 1000000
+branch.mispredict: 2
+branch.missrate: 0.0002%
+cycles: 1500033
+decode.earlyFlushes: 0
+dispatch.rsStalls: 499978
+fetch.branchStalls: 1000005
+flushes: 6
+ipc: 4
+issue.backendStalls: 2
+issue.frontendStalls: 17
+issue.portBusyStalls: 0
+lsq.loadViolations: 5
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 6000017
+
+Finished 1500033 ticks in 2439ms (615 kHz, 2.5 MIPS)
+File_name = 20220725_230420/str_64_4
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 13:27:20 - Jul  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+9Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 1000000
+branch.mispredict: 2
+branch.missrate: 0.0002%
+cycles: 2000032
+decode.earlyFlushes: 0
+dispatch.rsStalls: 999978
+fetch.branchStalls: 1000005
+flushes: 6
+ipc: 3.5
+issue.backendStalls: 3
+issue.frontendStalls: 17
+issue.portBusyStalls: 0
+lsq.loadViolations: 5
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 7000017
+
+Finished 2000032 ticks in 2869ms (697 kHz, 2.4 MIPS)
+File_name = 20220725_230420/str_64_5
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 13:27:20 - Jul  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+9Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 1000000
+branch.mispredict: 2
+branch.missrate: 0.0002%
+cycles: 3000033
+decode.earlyFlushes: 0
+dispatch.rsStalls: 1000001
+fetch.branchStalls: 1000001
+flushes: 2
+ipc: 2.7
+issue.backendStalls: 2
+issue.frontendStalls: 17
+issue.portBusyStalls: 0
+lsq.loadViolations: 1
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 8000017
+
+Finished 3000033 ticks in 3599ms (834 kHz, 2.2 MIPS)
+File_name = 20220725_230420/str_64_6
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 13:27:20 - Jul  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+9Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 1000000
+branch.mispredict: 2
+branch.missrate: 0.0002%
+cycles: 3000034
+decode.earlyFlushes: 0
+dispatch.rsStalls: 1000001
+fetch.branchStalls: 1000001
+flushes: 3
+ipc: 3
+issue.backendStalls: 2
+issue.frontendStalls: 18
+issue.portBusyStalls: 0
+lsq.loadViolations: 1
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 9000017
+
+Finished 3000034 ticks in 3923ms (765 kHz, 2.3 MIPS)

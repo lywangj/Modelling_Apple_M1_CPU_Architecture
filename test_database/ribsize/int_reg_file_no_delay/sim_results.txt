@@ -1,0 +1,935 @@
+Mon  8 Aug 16:48:13 BST 2022
+File_name = 20220808_164801/add_imm_64_indep_1000_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 11610015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 6170004
+fetch.branchStalls: 9999
+flushes: 809919
+ipc: 0.95
+issue.backendStalls: 8760000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3870000
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 11030017
+
+Finished 11610015 ticks in 6876ms (1688 kHz, 1.6 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1000_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 1740013
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 0
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 5.8
+issue.backendStalls: 0
+issue.frontendStalls: 40007
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 280004
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 10040017
+
+Finished 1740013 ticks in 3089ms (563 kHz, 3.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1000_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 3610015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 30000
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 2.8
+issue.backendStalls: 1569999
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 2110004
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 10230017
+
+Finished 3610015 ticks in 3737ms (966 kHz, 2.7 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1000_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 7610015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 2220004
+fetch.branchStalls: 9999
+flushes: 29997
+ipc: 1.4
+issue.backendStalls: 5160000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3870000
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 10630017
+
+Finished 7610015 ticks in 4855ms (1567 kHz, 2.2 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_100_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 10050035
+decode.earlyFlushes: 0
+dispatch.rsStalls: 6190004
+fetch.branchStalls: 9999
+flushes: 2
+ipc: 0.2
+issue.backendStalls: 8750005
+issue.frontendStalls: 120017
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3600000
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 2030017
+
+Finished 10050035 ticks in 3333ms (3015 kHz, 0.61 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_100_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 170038
+decode.earlyFlushes: 0
+dispatch.rsStalls: 0
+fetch.branchStalls: 9999
+flushes: 2
+ipc: 6.1
+issue.backendStalls: 3
+issue.frontendStalls: 17
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 29998
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 1040017
+
+Finished 170038 ticks in 311ms (547 kHz, 3.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_100_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 2050035
+decode.earlyFlushes: 0
+dispatch.rsStalls: 30002
+fetch.branchStalls: 9999
+flushes: 2
+ipc: 0.6
+issue.backendStalls: 1560004
+issue.frontendStalls: 120017
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 1860002
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 1230017
+
+Finished 2050035 ticks in 884ms (2319 kHz, 1.4 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_100_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 6050035
+decode.earlyFlushes: 0
+dispatch.rsStalls: 2240004
+fetch.branchStalls: 9999
+flushes: 2
+ipc: 0.27
+issue.backendStalls: 5150005
+issue.frontendStalls: 120017
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3600000
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 1630017
+
+Finished 6050035 ticks in 2115ms (2861 kHz, 0.77 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1100_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 11780015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 6190002
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 1
+issue.backendStalls: 8760000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3890002
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 12030017
+
+Finished 11780015 ticks in 6341ms (1858 kHz, 1.9 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1100_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 1900014
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 0
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 5.8
+issue.backendStalls: 0
+issue.frontendStalls: 40008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 330003
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 11040017
+
+Finished 1900014 ticks in 3322ms (572 kHz, 3.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1100_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 3780015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 30000
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 3
+issue.backendStalls: 1569999
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 2150004
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 11230017
+
+Finished 3780015 ticks in 3991ms (947 kHz, 2.8 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1100_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 7780015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 2240002
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 1.5
+issue.backendStalls: 5160000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3890002
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 11630017
+
+Finished 7780015 ticks in 5136ms (1515 kHz, 2.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1200_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 11940015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 6170004
+fetch.branchStalls: 9999
+flushes: 29997
+ipc: 1.1
+issue.backendStalls: 8760000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3950000
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 13030017
+
+Finished 11940015 ticks in 6595ms (1810 kHz, 2 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1200_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 2070015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 0
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 5.8
+issue.backendStalls: 1
+issue.frontendStalls: 40007
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 370003
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 12040017
+
+Finished 2070015 ticks in 3632ms (570 kHz, 3.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1200_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 3940015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 30000
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 3.1
+issue.backendStalls: 1569999
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 2190004
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 12230017
+
+Finished 3940015 ticks in 4290ms (918 kHz, 2.9 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1200_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 7940015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 2240002
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 1.6
+issue.backendStalls: 5160000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3930002
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 12630017
+
+Finished 7940015 ticks in 5409ms (1468 kHz, 2.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1300_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 12110015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 6190002
+fetch.branchStalls: 9999
+flushes: 609939
+ipc: 1.2
+issue.backendStalls: 8750001
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3970002
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 14030017
+
+Finished 12110015 ticks in 7203ms (1681 kHz, 1.9 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1300_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 2250012
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 0
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 5.8
+issue.backendStalls: 0
+issue.frontendStalls: 50007
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 420003
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 13040017
+
+Finished 2250012 ticks in 3910ms (575 kHz, 3.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1300_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 4110015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 30000
+fetch.branchStalls: 9999
+flushes: 29997
+ipc: 3.2
+issue.backendStalls: 1560000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 2230004
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 13230017
+
+Finished 4110015 ticks in 4570ms (899 kHz, 2.9 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1300_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 8110015
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 2240002
+fetch.branchStalls: 9999
+flushes: 609939
+ipc: 1.7
+issue.backendStalls: 5150001
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 3970002
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 13630017
+
+Finished 8110015 ticks in 5984ms (1355 kHz, 2.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1400_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 12290014
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 6190002
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 1.2
+issue.backendStalls: 8760000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 4020001
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 15030017
+
+Finished 12290014 ticks in 7153ms (1718 kHz, 2.1 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1400_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 2400014
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 0
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 5.8
+issue.backendStalls: 0
+issue.frontendStalls: 40007
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 450004
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 14040017
+
+Finished 2400014 ticks in 4198ms (572 kHz, 3.3 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1400_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 4290014
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 30000
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 3.3
+issue.backendStalls: 1569999
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 2280003
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 14230017
+
+Finished 4290014 ticks in 4861ms (883 kHz, 2.9 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1400_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 9999
+branch.missrate: 100%
+cycles: 8290014
+decode.earlyFlushes: 9999
+dispatch.rsStalls: 2240002
+fetch.branchStalls: 9999
+flushes: 19998
+ipc: 1.8
+issue.backendStalls: 5160000
+issue.frontendStalls: 160008
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 4020001
+rename.lqStalls: 0
+rename.robStalls: 0
+rename.sqStalls: 0
+retired: 14630017
+
+Finished 8290014 ticks in 5970ms (1389 kHz, 2.5 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 10000019
+decode.earlyFlushes: 0
+dispatch.rsStalls: 9859632
+fetch.branchStalls: 9999
+flushes: 2
+ipc: 0.1
+issue.backendStalls: 8969988
+issue.frontendStalls: 21
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 287
+rename.sqStalls: 0
+retired: 1040017
+
+Finished 10000019 ticks in 2981ms (3355 kHz, 0.35 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1_d1_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 100020
+decode.earlyFlushes: 0
+dispatch.rsStalls: 89628
+fetch.branchStalls: 10005
+flushes: 2
+ipc: 0.5
+issue.backendStalls: 60067
+issue.frontendStalls: 25
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 286
+rename.sqStalls: 0
+retired: 50017
+
+Finished 100020 ticks in 67ms (1493 kHz, 0.75 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1_d20_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 2000019
+decode.earlyFlushes: 0
+dispatch.rsStalls: 1959632
+fetch.branchStalls: 10000
+flushes: 2
+ipc: 0.12
+issue.backendStalls: 1769988
+issue.frontendStalls: 21
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 287
+rename.sqStalls: 0
+retired: 240017
+
+Finished 2000019 ticks in 614ms (3257 kHz, 0.39 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_1_d60_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
+0Received exit_group syscall: terminating with exit code 0
+Halting due to fatal exception
+
+branch.executed: 10000
+branch.mispredict: 2
+branch.missrate: 0.02%
+cycles: 6000019
+decode.earlyFlushes: 0
+dispatch.rsStalls: 5909632
+fetch.branchStalls: 9999
+flushes: 2
+ipc: 0.11
+issue.backendStalls: 5369988
+issue.frontendStalls: 21
+issue.portBusyStalls: 0
+lsq.loadViolations: 0
+rename.allocationStalls: 0
+rename.lqStalls: 0
+rename.robStalls: 287
+rename.sqStalls: 0
+retired: 640017
+
+Finished 6000019 ticks in 1798ms (3337 kHz, 0.36 MIPS)
+File_name = 20220808_164801/add_imm_64_indep_200_d100_L100
+Build metadata:
+	Version: 0.9.3
+	Compile Time - Date: 14:08:16 - Aug  5 2022
+	Build type: Release
+	Compile options: -Wall;$<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
+	Test suite: ON
+
+Running in Out-of-Order mode
+Starting...
