@@ -1,0 +1,128 @@
+#!/bin/sh
+
+DELAY=(20)
+LOOP=(100)
+myArray=(1 100 200 300 310 320 330 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 360 370 380 390 400 500 600 700 800)
+OPArray=("add_imm_64_indep")
+REPEAT=5
+
+DIR=`date +"%Y%m%d_%H%M%S"`
+
+test_insn () {
+  if [ $1 == "ldr_32" ]
+  then
+    echo "        ldr w5, [x6]" >> $DIR/$1_$2_d$3_L$4.s
+  elif [ $1 == "add_imm_64_indep" ]
+  then
+    echo "        add x1, x2, #1" >> $DIR/$1_$2_d$3_L$4.s
+  else
+    continue
+  fi
+}
+
+initialise () {
+  echo "        mov x2, 1" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mov x1, 2" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mov x0, ${4}" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mul x0, x0, x0" >> $DIR/$1_$2_d$3_L$4.s
+}
+
+delay () {
+  echo "        fdiv d0, d0, d1" >> $DIR/$1_$2_d$3_L$4.s
+}
+
+init_delay () {
+  echo "        movi v0.16b, 1" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        movi v1.16b, 2" >> $DIR/$1_$2_d$3_L$4.s
+}
+
+generate_head () {
+  echo ".global _start" >> $DIR/$1_$2_d$3_L$4.s
+  echo ".align 2" >> $DIR/$1_$2_d$3_L$4.s
+  echo "_start:" >> $DIR/$1_$2_d$3_L$4.s
+}
+
+generate_tail () {
+  echo "        add x3, x3, #1" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        cmp x3, x0" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        bne _start+0x18" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        add x5, x5, #48" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        ldr x6, =num" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        str x5, [x6]" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mov x0, #1" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        ldr x1, =num" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mov x2, #1" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        MOV x8, #64" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        svc #0" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mov x0, #0" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        mov x8, #94" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        svc #0" >> $DIR/$1_$2_d$3_L$4.s
+  echo ".data" >> $DIR/$1_$2_d$3_L$4.s
+  echo "num:" >> $DIR/$1_$2_d$3_L$4.s
+  echo '        .ascii " "' >> $DIR/$1_$2_d$3_L$4.s
+  echo "_data:" >> $DIR/$1_$2_d$3_L$4.s
+  echo "        .word 1,2,3,4,5,6,7,8,9" >> $DIR/$1_$2_d$3_L$4.s
+}
+
+mkdir -p $DIR
+
+cat $0 > $DIR/build.txt
+
+echo "= = = = = The file name is $0 = = = = =" >> $DIR/build.txt
+
+for OP in "${OPArray[@]}"; do
+  for i in ${myArray[@]}; do
+    for k in ${DELAY[@]}; do
+      for L in ${LOOP[@]}; do
+        generate_head $OP $i $k $L
+        init_delay $OP $i $k $L
+        initialise $OP $i $k $L
+        if [ $k != "0" ]
+        then
+          for (( j=0; j<($k); j++ ));
+          do
+            delay $OP $i $k $L
+          done
+        fi
+
+        if [ $i != "0" ]
+        then
+          for (( j=0; j<($i); j++ ));
+          do
+            test_insn $OP $i $k $L
+          done
+        fi
+        generate_tail $OP $i $k $L
+        as $DIR/${OP}_${i}_d${k}_L${L}.s -o $DIR/${OP}_${i}_d${k}_L${L}.o
+        ld -static $DIR/${OP}_${i}_d${k}_L${L}.o -o $DIR/${OP}_${i}_d${k}_L${L}
+      done
+    done
+  done
+done
+
+[ -e $DIR/results.txt ] && rm $DIR/perf_results.txt
+
+date > $DIR/perf_results.txt
+
+for ((i = 1; i <= $REPEAT; i++)); do
+  for f in $DIR/*; do
+    if [ -f "$f" ] && [ -x "$f" ]; then
+      echo "File_name = $f" >> $DIR/perf_results.txt
+      sudo taskset -c 7 perf stat -C 7 --all-user -e cycles,instructions "$f" &>> $DIR/perf_results.txt
+    fi
+  done
+done
+echo "End End End" &>> $DIR/perf_results.txt
+
+[ -e $DIR/sim_results.txt ] && rm $DIR/sim_results.txt
+
+date > $DIR/sim_results.txt
+
+for f in $DIR/*; do
+  if [ -f "$f" ] && [ -x "$f" ]; then
+    echo "File_name = $f" >> $DIR/sim_results.txt
+    /home/liyun/project/install/bin/simeng /home/liyun/project/configs/m1fs_v1p1.yaml $f >> $DIR/sim_results.txt
+  fi
+done
+echo "End End End" &>> $DIR/sim_results.txt
+= = = = = The file name is ./buildA_ROB8.sh = = = = =

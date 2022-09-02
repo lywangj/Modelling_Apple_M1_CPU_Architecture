@@ -1,0 +1,2 @@
+#,file_name,b.executed,b.mispredict,b.missrate,cycles,decode.earlyFlushes,dispatch.rsStalls,fetch.branchStalls,flushes,ipc,i.backendStalls,i.frontendStalls,i.portBusyStalls,lsq.loadViolations,r.allocationStalls,r.lqStalls,r.robStalls,r.sqStalls,retired,ticks,msecond,feq,MIPS
+1,20220725_215936/bic_v_reg_16B_7,1000000,2,0.0002%,14000019,0,0,1000001,2,0.71,5000020,13,0,0,11999715,0,203,0,10000015,14000019,6706,2088,1.5

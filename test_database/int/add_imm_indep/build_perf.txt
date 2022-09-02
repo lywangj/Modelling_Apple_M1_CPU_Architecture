@@ -1,0 +1,41 @@
+#!/bin/sh
+
+REPEAT=5
+[ -e $1/build_perf.txt ] && rm $1/build_perf.txt
+cat $0 > $1/build_perf.txt
+echo "= = = = = The file name is $0 = = = = =" >> $1/build_perf.txt
+
+for file in $1/*.s; do
+  n=${file%.*}
+  as ${n}.s -o ${n}.o
+  ld -static ${n}.o -o ${n}
+done
+
+[ -e $1/perf_resultv2.txt ] && rm $1/perf_resultv2.txt
+
+date > $1/perf_resultv2.txt
+
+for ((i = 1; i <= $REPEAT; i++)); do
+  for f in $1/*; do
+    if [ -f "$f" ] && [ -x "$f" ]; then
+      echo "File_name = $f" >> $1/perf_resultv2.txt
+      sudo taskset -c 4 perf stat -C 4 --all-user -e cycles,instructions "$f" &>> $1/perf_resultv2.txt
+    fi
+  done
+done
+
+echo "End End End" &>> $1/perf_resultv2.txt
+
+[ -e $1/sim_resultv2.txt ] && rm $1/sim_resultv2.txt
+
+date > $1/sim_resultv2.txt
+
+for f in $1/*; do
+  if [ -f "$f" ] && [ -x "$f" ]; then
+    echo "File_name = $f" >> $1/sim_resultv2.txt
+    /home/liyun/project/install/bin/simeng /home/liyun/project/SimEng/configs/m1fs_v1p0.yaml $f >> $1/sim_resultv2.txt
+  fi
+done
+
+echo "End End End" &>> $1/sim_resultv2.txt
+= = = = = The file name is ./build_p.sh = = = = =

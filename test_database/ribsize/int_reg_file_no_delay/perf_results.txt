@@ -1,0 +1,2702 @@
+Mon  8 Aug 16:48:03 BST 2022
+File_name = 20220808_164801/add_imm_64_indep_1000_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,273,288      cycles                                                      
+        11,032,341      instructions              #    0.98  insn per cycle         
+
+       0.009546056 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,676,479      cycles                                                      
+        10,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000723450 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,269,360      cycles                                                      
+        10,232,330      instructions              #    3.13  insn per cycle         
+
+       0.001180528 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,270,868      cycles                                                      
+        10,632,333      instructions              #    1.46  insn per cycle         
+
+       0.003441169 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,605      cycles                                                      
+         2,032,332      instructions              #    0.20  insn per cycle         
+
+       0.003448294 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           174,633      cycles                                                      
+         1,042,329      instructions              #    5.97  insn per cycle         
+
+       0.000187622 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,183      cycles                                                      
+         1,232,330      instructions              #    0.61  insn per cycle         
+
+       0.001022155 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,664      cycles                                                      
+         1,632,332      instructions              #    0.27  insn per cycle         
+
+       0.002854175 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,438,487      cycles                                                      
+        12,032,334      instructions              #    1.05  insn per cycle         
+
+       0.005354438 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,842,798      cycles                                                      
+        11,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000948406 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,433,669      cycles                                                      
+        11,232,330      instructions              #    3.27  insn per cycle         
+
+       0.001684522 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,440,218      cycles                                                      
+        11,632,332      instructions              #    1.56  insn per cycle         
+
+       0.003515251 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,602,462      cycles                                                      
+        13,032,334      instructions              #    1.12  insn per cycle         
+
+       0.005435563 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,009,346      cycles                                                      
+        12,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001025655 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,600,880      cycles                                                      
+        12,232,330      instructions              #    3.40  insn per cycle         
+
+       0.001752104 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,601,195      cycles                                                      
+        12,632,332      instructions              #    1.66  insn per cycle         
+
+       0.003587292 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,766,781      cycles                                                      
+        14,032,334      instructions              #    1.19  insn per cycle         
+
+       0.005505437 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,176,367      cycles                                                      
+        13,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001103029 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,767,233      cycles                                                      
+        13,232,331      instructions              #    3.51  insn per cycle         
+
+       0.001832604 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,769,025      cycles                                                      
+        13,632,334      instructions              #    1.75  insn per cycle         
+
+       0.003681583 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,933,967      cycles                                                      
+        15,032,334      instructions              #    1.26  insn per cycle         
+
+       0.005579811 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,343,278      cycles                                                      
+        14,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001179153 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,933,684      cycles                                                      
+        14,232,332      instructions              #    3.62  insn per cycle         
+
+       0.001908020 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,932,875      cycles                                                      
+        14,632,333      instructions              #    1.84  insn per cycle         
+
+       0.003751373 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,005,278      cycles                                                      
+         1,042,333      instructions              #    0.10  insn per cycle         
+
+       0.004697821 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           104,230      cycles                                                      
+            52,329      instructions              #    0.50  insn per cycle         
+
+       0.000151415 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,240      cycles                                                      
+           242,329      instructions              #    0.12  insn per cycle         
+
+       0.001024030 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,772      cycles                                                      
+           642,332      instructions              #    0.11  insn per cycle         
+
+       0.002858842 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,481      cycles                                                      
+         3,032,334      instructions              #    0.30  insn per cycle         
+
+       0.004704696 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           341,526      cycles                                                      
+         2,042,331      instructions              #    5.98  insn per cycle         
+
+       0.000261039 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,633      cycles                                                      
+         2,232,330      instructions              #    1.11  insn per cycle         
+
+       0.001023572 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,885      cycles                                                      
+         2,632,331      instructions              #    0.44  insn per cycle         
+
+       0.002858592 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,255      cycles                                                      
+         4,032,333      instructions              #    0.40  insn per cycle         
+
+       0.004690655 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           508,049      cycles                                                      
+         3,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000333829 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,556      cycles                                                      
+         3,232,330      instructions              #    1.61  insn per cycle         
+
+       0.001021530 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,878      cycles                                                      
+         3,632,331      instructions              #    0.60  insn per cycle         
+
+       0.002854926 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,269,502      cycles                                                      
+         5,032,333      instructions              #    0.49  insn per cycle         
+
+       0.004817111 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           674,906      cycles                                                      
+         4,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000408370 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,268,682      cycles                                                      
+         4,232,330      instructions              #    1.87  insn per cycle         
+
+       0.001141403 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,271,694      cycles                                                      
+         4,632,331      instructions              #    0.74  insn per cycle         
+
+       0.002979341 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,435,829      cycles                                                      
+         6,032,333      instructions              #    0.58  insn per cycle         
+
+       0.004895402 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           841,558      cycles                                                      
+         5,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000485994 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,435,768      cycles                                                      
+         5,232,330      instructions              #    2.15  insn per cycle         
+
+       0.001217486 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,434,559      cycles                                                      
+         5,632,333      instructions              #    0.88  insn per cycle         
+
+       0.003053090 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,605,548      cycles                                                      
+         7,032,334      instructions              #    0.66  insn per cycle         
+
+       0.004968568 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,008,890      cycles                                                      
+         6,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000563744 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,601,236      cycles                                                      
+         6,232,332      instructions              #    2.40  insn per cycle         
+
+       0.001300485 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,601,612      cycles                                                      
+         6,632,332      instructions              #    1.00  insn per cycle         
+
+       0.003129172 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,765,722      cycles                                                      
+         8,032,334      instructions              #    0.75  insn per cycle         
+
+       0.005049734 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,175,710      cycles                                                      
+         7,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000640576 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,765,551      cycles                                                      
+         7,232,330      instructions              #    2.62  insn per cycle         
+
+       0.001372026 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,766,797      cycles                                                      
+         7,632,332      instructions              #    1.13  insn per cycle         
+
+       0.003213421 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,933,799      cycles                                                      
+         9,032,334      instructions              #    0.83  insn per cycle         
+
+       0.005125233 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,342,308      cycles                                                      
+         8,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000716408 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,932,282      cycles                                                      
+         8,232,330      instructions              #    2.81  insn per cycle         
+
+       0.001443733 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,934,539      cycles                                                      
+         8,632,333      instructions              #    1.24  insn per cycle         
+
+       0.003285628 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,099,145      cycles                                                      
+        10,032,334      instructions              #    0.90  insn per cycle         
+
+       0.005196065 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,202      cycles                                                      
+         9,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000796824 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,123,653      cycles                                                      
+         9,232,330      instructions              #    2.96  insn per cycle         
+
+       0.001125237 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,098,831      cycles                                                      
+         9,632,331      instructions              #    1.36  insn per cycle         
+
+       0.002485388 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,269,102      cycles                                                      
+        11,032,334      instructions              #    0.98  insn per cycle         
+
+       0.005279022 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,675,822      cycles                                                      
+        10,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000874823 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,270,249      cycles                                                      
+        10,232,331      instructions              #    3.13  insn per cycle         
+
+       0.001593607 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,270,536      cycles                                                      
+        10,632,332      instructions              #    1.46  insn per cycle         
+
+       0.003427336 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,649      cycles                                                      
+         2,032,334      instructions              #    0.20  insn per cycle         
+
+       0.004685780 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           174,586      cycles                                                      
+         1,042,329      instructions              #    5.97  insn per cycle         
+
+       0.000172248 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,335      cycles                                                      
+         1,232,330      instructions              #    0.61  insn per cycle         
+
+       0.001013530 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,627      cycles                                                      
+         1,632,332      instructions              #    0.27  insn per cycle         
+
+       0.002849175 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,436,940      cycles                                                      
+        12,032,334      instructions              #    1.05  insn per cycle         
+
+       0.005340230 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,842,807      cycles                                                      
+        11,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000942198 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,438,616      cycles                                                      
+        11,232,331      instructions              #    3.27  insn per cycle         
+
+       0.001673772 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,435,680      cycles                                                      
+        11,632,332      instructions              #    1.56  insn per cycle         
+
+       0.003505626 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,604,168      cycles                                                      
+        13,032,334      instructions              #    1.12  insn per cycle         
+
+       0.005425355 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,009,978      cycles                                                      
+        12,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001015738 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,600,866      cycles                                                      
+        12,232,331      instructions              #    3.40  insn per cycle         
+
+       0.001746397 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,601,364      cycles                                                      
+        12,632,333      instructions              #    1.66  insn per cycle         
+
+       0.003582001 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,769,647      cycles                                                      
+        14,032,334      instructions              #    1.19  insn per cycle         
+
+       0.005498479 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,177,317      cycles                                                      
+        13,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001093320 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,766,677      cycles                                                      
+        13,232,331      instructions              #    3.51  insn per cycle         
+
+       0.001822354 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,771,005      cycles                                                      
+        13,632,332      instructions              #    1.75  insn per cycle         
+
+       0.003655958 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,934,817      cycles                                                      
+        15,032,334      instructions              #    1.26  insn per cycle         
+
+       0.005574144 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,343,322      cycles                                                      
+        14,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001169945 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,937,246      cycles                                                      
+        14,232,331      instructions              #    3.61  insn per cycle         
+
+       0.001898978 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,933,664      cycles                                                      
+        14,632,333      instructions              #    1.84  insn per cycle         
+
+       0.003734749 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,770      cycles                                                      
+         1,042,334      instructions              #    0.10  insn per cycle         
+
+       0.004695905 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           104,618      cycles                                                      
+            52,329      instructions              #    0.50  insn per cycle         
+
+       0.000141582 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,435      cycles                                                      
+           242,330      instructions              #    0.12  insn per cycle         
+
+       0.001015280 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,260      cycles                                                      
+           642,332      instructions              #    0.11  insn per cycle         
+
+       0.002852217 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,540      cycles                                                      
+         3,032,334      instructions              #    0.30  insn per cycle         
+
+       0.004685113 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           341,229      cycles                                                      
+         2,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000249789 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,797      cycles                                                      
+         2,232,330      instructions              #    1.11  insn per cycle         
+
+       0.001013197 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,346      cycles                                                      
+         2,632,331      instructions              #    0.44  insn per cycle         
+
+       0.002848801 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,005,004      cycles                                                      
+         4,032,333      instructions              #    0.40  insn per cycle         
+
+       0.004684196 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           507,809      cycles                                                      
+         3,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000327663 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,397      cycles                                                      
+         3,232,330      instructions              #    1.61  insn per cycle         
+
+       0.001014405 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,549      cycles                                                      
+         3,632,332      instructions              #    0.60  insn per cycle         
+
+       0.002846592 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,271,334      cycles                                                      
+         5,032,334      instructions              #    0.49  insn per cycle         
+
+       0.004807570 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           675,016      cycles                                                      
+         4,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000401703 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,270,207      cycles                                                      
+         4,232,330      instructions              #    1.86  insn per cycle         
+
+       0.001138028 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,273,246      cycles                                                      
+         4,632,332      instructions              #    0.74  insn per cycle         
+
+       0.002972550 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,436,527      cycles                                                      
+         6,032,333      instructions              #    0.58  insn per cycle         
+
+       0.004885610 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           841,933      cycles                                                      
+         5,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000480036 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,435,942      cycles                                                      
+         5,232,330      instructions              #    2.15  insn per cycle         
+
+       0.001210070 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,438,583      cycles                                                      
+         5,632,332      instructions              #    0.87  insn per cycle         
+
+       0.003050548 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,601,735      cycles                                                      
+         7,032,334      instructions              #    0.66  insn per cycle         
+
+       0.004965484 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,008,775      cycles                                                      
+         6,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000557910 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,601,713      cycles                                                      
+         6,232,330      instructions              #    2.40  insn per cycle         
+
+       0.001287236 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,602,609      cycles                                                      
+         6,632,332      instructions              #    1.00  insn per cycle         
+
+       0.003121881 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,766,090      cycles                                                      
+         8,032,334      instructions              #    0.75  insn per cycle         
+
+       0.005041692 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,175,603      cycles                                                      
+         7,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000631951 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,768,960      cycles                                                      
+         7,232,330      instructions              #    2.61  insn per cycle         
+
+       0.001363901 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,769,532      cycles                                                      
+         7,632,332      instructions              #    1.13  insn per cycle         
+
+       0.003198338 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,933,924      cycles                                                      
+         9,032,334      instructions              #    0.83  insn per cycle         
+
+       0.005113150 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,342,577      cycles                                                      
+         8,042,331      instructions              #    5.99  insn per cycle         
+
+       0.000710242 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,934,754      cycles                                                      
+         8,232,331      instructions              #    2.81  insn per cycle         
+
+       0.001447691 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,932,939      cycles                                                      
+         8,632,332      instructions              #    1.25  insn per cycle         
+
+       0.003279879 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,102,152      cycles                                                      
+        10,032,336      instructions              #    0.90  insn per cycle         
+
+       0.005192148 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,508,978      cycles                                                      
+         9,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000787908 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,096,721      cycles                                                      
+         9,232,330      instructions              #    2.98  insn per cycle         
+
+       0.001515483 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,100,355      cycles                                                      
+         9,632,332      instructions              #    1.36  insn per cycle         
+
+       0.003353837 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,267,425      cycles                                                      
+        11,032,334      instructions              #    0.98  insn per cycle         
+
+       0.005272147 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,676,120      cycles                                                      
+        10,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000865032 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,269,075      cycles                                                      
+        10,232,331      instructions              #    3.13  insn per cycle         
+
+       0.001595107 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,267,558      cycles                                                      
+        10,632,332      instructions              #    1.46  insn per cycle         
+
+       0.003430211 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,421      cycles                                                      
+         2,032,333      instructions              #    0.20  insn per cycle         
+
+       0.004693071 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           174,636      cycles                                                      
+         1,042,329      instructions              #    5.97  insn per cycle         
+
+       0.000174123 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,235      cycles                                                      
+         1,232,330      instructions              #    0.61  insn per cycle         
+
+       0.001012780 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,481      cycles                                                      
+         1,632,331      instructions              #    0.27  insn per cycle         
+
+       0.002853176 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,435,392      cycles                                                      
+        12,032,334      instructions              #    1.05  insn per cycle         
+
+       0.005339855 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,842,641      cycles                                                      
+        11,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000941865 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,436,415      cycles                                                      
+        11,232,330      instructions              #    3.27  insn per cycle         
+
+       0.001670023 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,437,329      cycles                                                      
+        11,632,332      instructions              #    1.56  insn per cycle         
+
+       0.003503835 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,603,447      cycles                                                      
+        13,032,334      instructions              #    1.12  insn per cycle         
+
+       0.005421271 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,009,901      cycles                                                      
+        12,042,329      instructions              #    5.99  insn per cycle         
+
+       0.001020613 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,605,613      cycles                                                      
+        12,232,331      instructions              #    3.39  insn per cycle         
+
+       0.001748313 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,604,019      cycles                                                      
+        12,632,332      instructions              #    1.66  insn per cycle         
+
+       0.003590501 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,768,036      cycles                                                      
+        14,032,335      instructions              #    1.19  insn per cycle         
+
+       0.005502562 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,176,761      cycles                                                      
+        13,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001092238 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,771,616      cycles                                                      
+        13,232,332      instructions              #    3.51  insn per cycle         
+
+       0.001830646 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,768,247      cycles                                                      
+        13,632,332      instructions              #    1.75  insn per cycle         
+
+       0.003662833 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,934,555      cycles                                                      
+        15,032,334      instructions              #    1.26  insn per cycle         
+
+       0.005570103 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,343,124      cycles                                                      
+        14,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001171070 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,932,828      cycles                                                      
+        14,232,331      instructions              #    3.62  insn per cycle         
+
+       0.001910186 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,934,141      cycles                                                      
+        14,632,333      instructions              #    1.84  insn per cycle         
+
+       0.003743248 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,227      cycles                                                      
+         1,042,334      instructions              #    0.10  insn per cycle         
+
+       0.004696612 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           104,446      cycles                                                      
+            52,329      instructions              #    0.50  insn per cycle         
+
+       0.000141915 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,650      cycles                                                      
+           242,330      instructions              #    0.12  insn per cycle         
+
+       0.001014739 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,625      cycles                                                      
+           642,331      instructions              #    0.11  insn per cycle         
+
+       0.002851092 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,515      cycles                                                      
+         3,032,334      instructions              #    0.30  insn per cycle         
+
+       0.004685904 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           341,388      cycles                                                      
+         2,042,329      instructions              #    5.98  insn per cycle         
+
+       0.000250580 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,700      cycles                                                      
+         2,232,330      instructions              #    1.11  insn per cycle         
+
+       0.001013905 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,605      cycles                                                      
+         2,632,332      instructions              #    0.44  insn per cycle         
+
+       0.002854342 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,379      cycles                                                      
+         4,032,334      instructions              #    0.40  insn per cycle         
+
+       0.004691154 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           507,798      cycles                                                      
+         3,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000325621 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,400      cycles                                                      
+         3,232,330      instructions              #    1.61  insn per cycle         
+
+       0.001012446 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,413      cycles                                                      
+         3,632,332      instructions              #    0.60  insn per cycle         
+
+       0.002850259 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,273,862      cycles                                                      
+         5,032,334      instructions              #    0.49  insn per cycle         
+
+       0.004815653 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           674,832      cycles                                                      
+         4,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000403370 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,273,507      cycles                                                      
+         4,232,330      instructions              #    1.86  insn per cycle         
+
+       0.001137487 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,274,380      cycles                                                      
+         4,632,332      instructions              #    0.74  insn per cycle         
+
+       0.002979382 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,436,271      cycles                                                      
+         6,032,334      instructions              #    0.58  insn per cycle         
+
+       0.004887444 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           842,117      cycles                                                      
+         5,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000481037 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,435,209      cycles                                                      
+         5,232,330      instructions              #    2.15  insn per cycle         
+
+       0.001212736 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,435,589      cycles                                                      
+         5,632,332      instructions              #    0.88  insn per cycle         
+
+       0.003049673 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,598,873      cycles                                                      
+         7,032,334      instructions              #    0.66  insn per cycle         
+
+       0.004958276 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,008,652      cycles                                                      
+         6,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000554577 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,599,959      cycles                                                      
+         6,232,330      instructions              #    2.40  insn per cycle         
+
+       0.001285485 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,601,050      cycles                                                      
+         6,632,332      instructions              #    1.00  insn per cycle         
+
+       0.003119297 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,771,344      cycles                                                      
+         8,032,335      instructions              #    0.75  insn per cycle         
+
+       0.005038275 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,175,684      cycles                                                      
+         7,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000635035 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,767,208      cycles                                                      
+         7,232,331      instructions              #    2.61  insn per cycle         
+
+       0.001364151 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,765,249      cycles                                                      
+         7,632,332      instructions              #    1.13  insn per cycle         
+
+       0.003198296 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,933,913      cycles                                                      
+         9,032,334      instructions              #    0.83  insn per cycle         
+
+       0.005115191 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,342,195      cycles                                                      
+         8,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000710200 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,932,033      cycles                                                      
+         8,232,330      instructions              #    2.81  insn per cycle         
+
+       0.001437275 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,934,092      cycles                                                      
+         8,632,332      instructions              #    1.24  insn per cycle         
+
+       0.003273754 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,104,919      cycles                                                      
+        10,032,334      instructions              #    0.90  insn per cycle         
+
+       0.005186065 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,131      cycles                                                      
+         9,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000783741 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,100,527      cycles                                                      
+         9,232,330      instructions              #    2.98  insn per cycle         
+
+       0.001519024 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,101,594      cycles                                                      
+         9,632,332      instructions              #    1.36  insn per cycle         
+
+       0.003359378 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,268,409      cycles                                                      
+        11,032,334      instructions              #    0.98  insn per cycle         
+
+       0.005271981 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,675,778      cycles                                                      
+        10,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000862698 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,267,471      cycles                                                      
+        10,232,330      instructions              #    3.13  insn per cycle         
+
+       0.001590732 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,275,706      cycles                                                      
+        10,632,332      instructions              #    1.46  insn per cycle         
+
+       0.003430294 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,667      cycles                                                      
+         2,032,334      instructions              #    0.20  insn per cycle         
+
+       0.004681697 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           174,283      cycles                                                      
+         1,042,329      instructions              #    5.98  insn per cycle         
+
+       0.000174540 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,805      cycles                                                      
+         1,232,331      instructions              #    0.61  insn per cycle         
+
+       0.002054185 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,843      cycles                                                      
+         1,632,331      instructions              #    0.27  insn per cycle         
+
+       0.002849342 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,439,571      cycles                                                      
+        12,032,335      instructions              #    1.05  insn per cycle         
+
+       0.005345605 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,843,241      cycles                                                      
+        11,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000938947 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,435,652      cycles                                                      
+        11,232,330      instructions              #    3.27  insn per cycle         
+
+       0.001667856 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,437,704      cycles                                                      
+        11,632,333      instructions              #    1.56  insn per cycle         
+
+       0.003521043 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,603,378      cycles                                                      
+        13,032,334      instructions              #    1.12  insn per cycle         
+
+       0.005419187 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,009,628      cycles                                                      
+        12,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001014863 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,601,989      cycles                                                      
+        12,232,332      instructions              #    3.40  insn per cycle         
+
+       0.001748896 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,601,964      cycles                                                      
+        12,632,333      instructions              #    1.66  insn per cycle         
+
+       0.003578209 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,770,072      cycles                                                      
+        14,032,334      instructions              #    1.19  insn per cycle         
+
+       0.005500686 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,176,522      cycles                                                      
+        13,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001092530 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,769,775      cycles                                                      
+        13,232,331      instructions              #    3.51  insn per cycle         
+
+       0.001823396 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,766,612      cycles                                                      
+        13,632,332      instructions              #    1.76  insn per cycle         
+
+       0.003662708 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,936,368      cycles                                                      
+        15,032,334      instructions              #    1.26  insn per cycle         
+
+       0.005575436 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,343,421      cycles                                                      
+        14,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001167486 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,951,720      cycles                                                      
+        14,232,331      instructions              #    3.60  insn per cycle         
+
+       0.001915270 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,933,547      cycles                                                      
+        14,632,333      instructions              #    1.84  insn per cycle         
+
+       0.003740999 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,290      cycles                                                      
+         1,042,334      instructions              #    0.10  insn per cycle         
+
+       0.004684905 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           104,360      cycles                                                      
+            52,329      instructions              #    0.50  insn per cycle         
+
+       0.000139665 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,343      cycles                                                      
+           242,330      instructions              #    0.12  insn per cycle         
+
+       0.001012238 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,442      cycles                                                      
+           642,333      instructions              #    0.11  insn per cycle         
+
+       0.002847925 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,572      cycles                                                      
+         3,032,333      instructions              #    0.30  insn per cycle         
+
+       0.004690071 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           341,135      cycles                                                      
+         2,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000251539 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,272      cycles                                                      
+         2,232,330      instructions              #    1.11  insn per cycle         
+
+       0.001013155 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,672      cycles                                                      
+         2,632,331      instructions              #    0.44  insn per cycle         
+
+       0.002854675 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,728      cycles                                                      
+         4,032,333      instructions              #    0.40  insn per cycle         
+
+       0.004688279 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           507,611      cycles                                                      
+         3,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000325913 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,416      cycles                                                      
+         3,232,330      instructions              #    1.61  insn per cycle         
+
+       0.001012405 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,574      cycles                                                      
+         3,632,331      instructions              #    0.60  insn per cycle         
+
+       0.002854467 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,272,524      cycles                                                      
+         5,032,334      instructions              #    0.49  insn per cycle         
+
+       0.004806611 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           674,782      cycles                                                      
+         4,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000402829 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,271,204      cycles                                                      
+         4,232,330      instructions              #    1.86  insn per cycle         
+
+       0.001135320 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,277,280      cycles                                                      
+         4,632,331      instructions              #    0.74  insn per cycle         
+
+       0.002192475 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,436,093      cycles                                                      
+         6,032,335      instructions              #    0.58  insn per cycle         
+
+       0.004903652 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           842,000      cycles                                                      
+         5,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000357204 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,435,069      cycles                                                      
+         5,232,329      instructions              #    2.15  insn per cycle         
+
+       0.000893615 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,434,795      cycles                                                      
+         5,632,331      instructions              #    0.88  insn per cycle         
+
+       0.002560721 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,601,146      cycles                                                      
+         7,032,332      instructions              #    0.66  insn per cycle         
+
+       0.003631625 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,008,703      cycles                                                      
+         6,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000413829 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,600,917      cycles                                                      
+         6,232,330      instructions              #    2.40  insn per cycle         
+
+       0.000949448 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,601,394      cycles                                                      
+         6,632,331      instructions              #    1.00  insn per cycle         
+
+       0.002291432 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,767,117      cycles                                                      
+         8,032,333      instructions              #    0.75  insn per cycle         
+
+       0.003684624 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,175,272      cycles                                                      
+         7,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000825824 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,768,727      cycles                                                      
+         7,232,330      instructions              #    2.61  insn per cycle         
+
+       0.001367401 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,767,368      cycles                                                      
+         7,632,331      instructions              #    1.13  insn per cycle         
+
+       0.002345599 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,937,113      cycles                                                      
+         9,032,333      instructions              #    0.83  insn per cycle         
+
+       0.003745374 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,342,394      cycles                                                      
+         8,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000715950 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,934,963      cycles                                                      
+         8,232,330      instructions              #    2.80  insn per cycle         
+
+       0.001061530 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,932,675      cycles                                                      
+         8,632,331      instructions              #    1.25  insn per cycle         
+
+       0.002414931 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,098,841      cycles                                                      
+        10,032,332      instructions              #    0.90  insn per cycle         
+
+       0.003810581 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,789      cycles                                                      
+         9,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000581035 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,100,260      cycles                                                      
+         9,232,331      instructions              #    2.98  insn per cycle         
+
+       0.001443150 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,100,423      cycles                                                      
+         9,632,331      instructions              #    1.36  insn per cycle         
+
+       0.002459597 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,268,881      cycles                                                      
+        11,032,335      instructions              #    0.98  insn per cycle         
+
+       0.005424354 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,676,133      cycles                                                      
+        10,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000797366 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,268,675      cycles                                                      
+        10,232,330      instructions              #    3.13  insn per cycle         
+
+       0.001199278 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1000_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,270,401      cycles                                                      
+        10,632,332      instructions              #    1.46  insn per cycle         
+
+       0.003159839 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,889      cycles                                                      
+         2,032,332      instructions              #    0.20  insn per cycle         
+
+       0.003437043 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           174,333      cycles                                                      
+         1,042,329      instructions              #    5.98  insn per cycle         
+
+       0.000175331 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,608      cycles                                                      
+         1,232,330      instructions              #    0.61  insn per cycle         
+
+       0.000749158 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,576      cycles                                                      
+         1,632,332      instructions              #    0.27  insn per cycle         
+
+       0.002850467 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,437,673      cycles                                                      
+        12,032,333      instructions              #    1.05  insn per cycle         
+
+       0.003914163 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,842,824      cycles                                                      
+        11,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000946489 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,437,569      cycles                                                      
+        11,232,330      instructions              #    3.27  insn per cycle         
+
+       0.001229694 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1100_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,436,108      cycles                                                      
+        11,632,333      instructions              #    1.56  insn per cycle         
+
+       0.003536167 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,605,849      cycles                                                      
+        13,032,334      instructions              #    1.12  insn per cycle         
+
+       0.003968246 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,009,912      cycles                                                      
+        12,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001019572 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,605,079      cycles                                                      
+        12,232,330      instructions              #    3.39  insn per cycle         
+
+       0.001286069 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,602,430      cycles                                                      
+        12,632,333      instructions              #    1.66  insn per cycle         
+
+       0.003611916 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,768,318      cycles                                                      
+        14,032,333      instructions              #    1.19  insn per cycle         
+
+       0.004037328 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,176,851      cycles                                                      
+        13,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001097363 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,765,756      cycles                                                      
+        13,232,330      instructions              #    3.51  insn per cycle         
+
+       0.001339484 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,767,291      cycles                                                      
+        13,632,333      instructions              #    1.76  insn per cycle         
+
+       0.003662458 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,934,988      cycles                                                      
+        15,032,333      instructions              #    1.26  insn per cycle         
+
+       0.004086036 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,343,109      cycles                                                      
+        14,042,330      instructions              #    5.99  insn per cycle         
+
+       0.001175570 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,934,432      cycles                                                      
+        14,232,330      instructions              #    3.62  insn per cycle         
+
+       0.001412484 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,937,542      cycles                                                      
+        14,632,333      instructions              #    1.84  insn per cycle         
+
+       0.003751040 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,959      cycles                                                      
+         1,042,333      instructions              #    0.10  insn per cycle         
+
+       0.003452293 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           104,219      cycles                                                      
+            52,329      instructions              #    0.50  insn per cycle         
+
+       0.000147165 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,895      cycles                                                      
+           242,330      instructions              #    0.12  insn per cycle         
+
+       0.000769991 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_1_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,703      cycles                                                      
+           642,332      instructions              #    0.11  insn per cycle         
+
+       0.002869134 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,005,132      cycles                                                      
+         3,032,332      instructions              #    0.30  insn per cycle         
+
+       0.003442919 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           341,337      cycles                                                      
+         2,042,329      instructions              #    5.98  insn per cycle         
+
+       0.000259497 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,677      cycles                                                      
+         2,232,330      instructions              #    1.11  insn per cycle         
+
+       0.000749533 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_200_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,874      cycles                                                      
+         2,632,332      instructions              #    0.44  insn per cycle         
+
+       0.002875801 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,004,628      cycles                                                      
+         4,032,332      instructions              #    0.40  insn per cycle         
+
+       0.003446294 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           507,601      cycles                                                      
+         3,042,347      instructions              #    5.99  insn per cycle         
+
+       0.000332497 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,303      cycles                                                      
+         3,232,329      instructions              #    1.61  insn per cycle         
+
+       0.000752658 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_300_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,004,394      cycles                                                      
+         3,632,332      instructions              #    0.60  insn per cycle         
+
+       0.002869425 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,270,696      cycles                                                      
+         5,032,333      instructions              #    0.49  insn per cycle         
+
+       0.003533251 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           675,065      cycles                                                      
+         4,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000424662 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,268,100      cycles                                                      
+         4,232,330      instructions              #    1.87  insn per cycle         
+
+       0.000837074 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_400_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,271,685      cycles                                                      
+         4,632,333      instructions              #    0.74  insn per cycle         
+
+       0.003000174 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,440,854      cycles                                                      
+         6,032,332      instructions              #    0.58  insn per cycle         
+
+       0.003598084 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           841,580      cycles                                                      
+         5,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000501536 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,435,535      cycles                                                      
+         5,232,330      instructions              #    2.15  insn per cycle         
+
+       0.000895448 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_500_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,435,562      cycles                                                      
+         5,632,332      instructions              #    0.88  insn per cycle         
+
+       0.003075673 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,601,352      cycles                                                      
+         7,032,333      instructions              #    0.66  insn per cycle         
+
+       0.003648083 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,008,865      cycles                                                      
+         6,042,330      instructions              #    5.99  insn per cycle         
+
+       0.000561786 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,601,514      cycles                                                      
+         6,232,331      instructions              #    2.40  insn per cycle         
+
+       0.000953572 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_600_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,604,492      cycles                                                      
+         6,632,332      instructions              #    1.00  insn per cycle         
+
+       0.003128214 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,768,292      cycles                                                      
+         8,032,333      instructions              #    0.75  insn per cycle         
+
+       0.003695957 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,175,277      cycles                                                      
+         7,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000637660 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,766,824      cycles                                                      
+         7,232,331      instructions              #    2.61  insn per cycle         
+
+       0.001003738 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_700_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,766,724      cycles                                                      
+         7,632,331      instructions              #    1.13  insn per cycle         
+
+       0.002348764 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        10,932,395      cycles                                                      
+         9,032,334      instructions              #    0.83  insn per cycle         
+
+       0.003748915 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,342,540      cycles                                                      
+         8,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000715116 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,933,304      cycles                                                      
+         8,232,330      instructions              #    2.81  insn per cycle         
+
+       0.001074779 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_800_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         6,938,950      cycles                                                      
+         8,632,331      instructions              #    1.24  insn per cycle         
+
+       0.002404139 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d100_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+        11,101,465      cycles                                                      
+        10,032,333      instructions              #    0.90  insn per cycle         
+
+       0.003802706 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d1_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,311      cycles                                                      
+         9,042,329      instructions              #    5.99  insn per cycle         
+
+       0.000789866 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,096,402      cycles                                                      
+         9,232,330      instructions              #    2.98  insn per cycle         
+
+       0.001112613 seconds time elapsed
+
+File_name = 20220808_164801/add_imm_64_indep_900_d60_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         7,099,515      cycles                                                      
+         9,632,331      instructions              #    1.36  insn per cycle         
+
+       0.002470971 seconds time elapsed
+
+End End End

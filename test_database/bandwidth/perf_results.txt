@@ -1,0 +1,947 @@
+Mon  8 Aug 20:56:25 BST 2022
+File_name = 20220808_205624/nop_1000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,260,231      cycles                                                      
+        10,032,320      instructions              #    7.96  insn per cycle         
+
+       0.000701657 seconds time elapsed
+
+File_name = 20220808_205624/nop_100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           133,646      cycles                                                      
+         1,032,329      instructions              #    7.72  insn per cycle         
+
+       0.000168081 seconds time elapsed
+
+File_name = 20220808_205624/nop_1200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,510,175      cycles                                                      
+        12,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000797157 seconds time elapsed
+
+File_name = 20220808_205624/nop_1400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,760,498      cycles                                                      
+        14,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000910947 seconds time elapsed
+
+File_name = 20220808_205624/nop_1600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,011,137      cycles                                                      
+        16,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001028028 seconds time elapsed
+
+File_name = 20220808_205624/nop_1700_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,135,913      cycles                                                      
+        17,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001092527 seconds time elapsed
+
+File_name = 20220808_205624/nop_1800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,261,119      cycles                                                      
+        18,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001141193 seconds time elapsed
+
+File_name = 20220808_205624/nop_1_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+            14,544      cycles                                                      
+            42,329      instructions              #    2.91  insn per cycle         
+
+       0.000107124 seconds time elapsed
+
+File_name = 20220808_205624/nop_2000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,511,311      cycles                                                      
+        20,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001253692 seconds time elapsed
+
+File_name = 20220808_205624/nop_200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           258,442      cycles                                                      
+         2,032,331      instructions              #    7.86  insn per cycle         
+
+       0.000220331 seconds time elapsed
+
+File_name = 20220808_205624/nop_2100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,636,660      cycles                                                      
+        21,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001311608 seconds time elapsed
+
+File_name = 20220808_205624/nop_2200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,761,730      cycles                                                      
+        22,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001367608 seconds time elapsed
+
+File_name = 20220808_205624/nop_2400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,011,938      cycles                                                      
+        24,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001484981 seconds time elapsed
+
+File_name = 20220808_205624/nop_2600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,262,537      cycles                                                      
+        26,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001598271 seconds time elapsed
+
+File_name = 20220808_205624/nop_2800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,513,628      cycles                                                      
+        28,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001716186 seconds time elapsed
+
+File_name = 20220808_205624/nop_3000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,763,176      cycles                                                      
+        30,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001824977 seconds time elapsed
+
+File_name = 20220808_205624/nop_3200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,014,407      cycles                                                      
+        32,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001940558 seconds time elapsed
+
+File_name = 20220808_205624/nop_3400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,264,034      cycles                                                      
+        34,032,322      instructions              #    7.98  insn per cycle         
+
+       0.002056431 seconds time elapsed
+
+File_name = 20220808_205624/nop_400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           508,695      cycles                                                      
+         4,032,329      instructions              #    7.93  insn per cycle         
+
+       0.000333120 seconds time elapsed
+
+File_name = 20220808_205624/nop_600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           759,202      cycles                                                      
+         6,032,329      instructions              #    7.95  insn per cycle         
+
+       0.000448828 seconds time elapsed
+
+File_name = 20220808_205624/nop_800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,009,115      cycles                                                      
+         8,032,331      instructions              #    7.96  insn per cycle         
+
+       0.000565451 seconds time elapsed
+
+File_name = 20220808_205624/nop_1000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,259,354      cycles                                                      
+        10,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000675032 seconds time elapsed
+
+File_name = 20220808_205624/nop_100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           133,519      cycles                                                      
+         1,032,329      instructions              #    7.73  insn per cycle         
+
+       0.000159540 seconds time elapsed
+
+File_name = 20220808_205624/nop_1200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,831      cycles                                                      
+        12,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000790907 seconds time elapsed
+
+File_name = 20220808_205624/nop_1400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,760,182      cycles                                                      
+        14,032,319      instructions              #    7.97  insn per cycle         
+
+       0.000906572 seconds time elapsed
+
+File_name = 20220808_205624/nop_1600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,011,174      cycles                                                      
+        16,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001024736 seconds time elapsed
+
+File_name = 20220808_205624/nop_1700_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,135,978      cycles                                                      
+        17,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001077361 seconds time elapsed
+
+File_name = 20220808_205624/nop_1800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,261,106      cycles                                                      
+        18,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001133694 seconds time elapsed
+
+File_name = 20220808_205624/nop_1_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+            14,366      cycles                                                      
+            42,329      instructions              #    2.95  insn per cycle         
+
+       0.000102457 seconds time elapsed
+
+File_name = 20220808_205624/nop_2000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,511,868      cycles                                                      
+        20,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001247317 seconds time elapsed
+
+File_name = 20220808_205624/nop_200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           258,399      cycles                                                      
+         2,032,330      instructions              #    7.87  insn per cycle         
+
+       0.000217205 seconds time elapsed
+
+File_name = 20220808_205624/nop_2100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,636,547      cycles                                                      
+        21,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001380607 seconds time elapsed
+
+File_name = 20220808_205624/nop_2200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,762,349      cycles                                                      
+        22,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001363649 seconds time elapsed
+
+File_name = 20220808_205624/nop_2400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,012,388      cycles                                                      
+        24,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001476564 seconds time elapsed
+
+File_name = 20220808_205624/nop_2600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,262,723      cycles                                                      
+        26,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001596438 seconds time elapsed
+
+File_name = 20220808_205624/nop_2800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,513,277      cycles                                                      
+        28,032,322      instructions              #    7.98  insn per cycle         
+
+       0.001710895 seconds time elapsed
+
+File_name = 20220808_205624/nop_3000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,763,314      cycles                                                      
+        30,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001830310 seconds time elapsed
+
+File_name = 20220808_205624/nop_3200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,013,564      cycles                                                      
+        32,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001938558 seconds time elapsed
+
+File_name = 20220808_205624/nop_3400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,264,184      cycles                                                      
+        34,032,321      instructions              #    7.98  insn per cycle         
+
+       0.002058974 seconds time elapsed
+
+File_name = 20220808_205624/nop_400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           508,804      cycles                                                      
+         4,032,329      instructions              #    7.93  insn per cycle         
+
+       0.000327287 seconds time elapsed
+
+File_name = 20220808_205624/nop_600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           759,008      cycles                                                      
+         6,032,330      instructions              #    7.95  insn per cycle         
+
+       0.000446745 seconds time elapsed
+
+File_name = 20220808_205624/nop_800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,009,370      cycles                                                      
+         8,032,329      instructions              #    7.96  insn per cycle         
+
+       0.000555368 seconds time elapsed
+
+File_name = 20220808_205624/nop_1000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,259,593      cycles                                                      
+        10,032,320      instructions              #    7.96  insn per cycle         
+
+       0.000675574 seconds time elapsed
+
+File_name = 20220808_205624/nop_100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           133,368      cycles                                                      
+         1,032,331      instructions              #    7.74  insn per cycle         
+
+       0.000157539 seconds time elapsed
+
+File_name = 20220808_205624/nop_1200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,776      cycles                                                      
+        12,032,319      instructions              #    7.97  insn per cycle         
+
+       0.000786906 seconds time elapsed
+
+File_name = 20220808_205624/nop_1400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,761,110      cycles                                                      
+        14,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000903363 seconds time elapsed
+
+File_name = 20220808_205624/nop_1600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,010,825      cycles                                                      
+        16,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001016779 seconds time elapsed
+
+File_name = 20220808_205624/nop_1700_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,135,614      cycles                                                      
+        17,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001075195 seconds time elapsed
+
+File_name = 20220808_205624/nop_1800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,261,425      cycles                                                      
+        18,032,321      instructions              #    7.97  insn per cycle         
+
+       0.001130860 seconds time elapsed
+
+File_name = 20220808_205624/nop_1_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+            14,159      cycles                                                      
+            42,329      instructions              #    2.99  insn per cycle         
+
+       0.000100374 seconds time elapsed
+
+File_name = 20220808_205624/nop_2000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,511,463      cycles                                                      
+        20,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001247567 seconds time elapsed
+
+File_name = 20220808_205624/nop_200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           258,065      cycles                                                      
+         2,032,329      instructions              #    7.88  insn per cycle         
+
+       0.000215705 seconds time elapsed
+
+File_name = 20220808_205624/nop_2100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,636,244      cycles                                                      
+        21,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001303399 seconds time elapsed
+
+File_name = 20220808_205624/nop_2200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,761,819      cycles                                                      
+        22,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001359899 seconds time elapsed
+
+File_name = 20220808_205624/nop_2400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,012,033      cycles                                                      
+        24,032,322      instructions              #    7.98  insn per cycle         
+
+       0.001477856 seconds time elapsed
+
+File_name = 20220808_205624/nop_2600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,262,435      cycles                                                      
+        26,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001591313 seconds time elapsed
+
+File_name = 20220808_205624/nop_2800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,512,894      cycles                                                      
+        28,032,322      instructions              #    7.98  insn per cycle         
+
+       0.001707644 seconds time elapsed
+
+File_name = 20220808_205624/nop_3000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,763,244      cycles                                                      
+        30,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001822060 seconds time elapsed
+
+File_name = 20220808_205624/nop_3200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,013,789      cycles                                                      
+        32,032,322      instructions              #    7.98  insn per cycle         
+
+       0.001936684 seconds time elapsed
+
+File_name = 20220808_205624/nop_3400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,277,718      cycles                                                      
+        34,032,321      instructions              #    7.96  insn per cycle         
+
+       0.002056015 seconds time elapsed
+
+File_name = 20220808_205624/nop_400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           508,604      cycles                                                      
+         4,032,329      instructions              #    7.93  insn per cycle         
+
+       0.000328163 seconds time elapsed
+
+File_name = 20220808_205624/nop_600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           758,681      cycles                                                      
+         6,032,330      instructions              #    7.95  insn per cycle         
+
+       0.000449869 seconds time elapsed
+
+File_name = 20220808_205624/nop_800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,009,735      cycles                                                      
+         8,032,330      instructions              #    7.95  insn per cycle         
+
+       0.000559535 seconds time elapsed
+
+File_name = 20220808_205624/nop_1000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,259,285      cycles                                                      
+        10,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000677074 seconds time elapsed
+
+File_name = 20220808_205624/nop_100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           133,233      cycles                                                      
+         1,032,329      instructions              #    7.75  insn per cycle         
+
+       0.000153289 seconds time elapsed
+
+File_name = 20220808_205624/nop_1200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,515,268      cycles                                                      
+        12,032,320      instructions              #    7.94  insn per cycle         
+
+       0.000790739 seconds time elapsed
+
+File_name = 20220808_205624/nop_1400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,761,234      cycles                                                      
+        14,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000903864 seconds time elapsed
+
+File_name = 20220808_205624/nop_1600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,010,662      cycles                                                      
+        16,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001016612 seconds time elapsed
+
+File_name = 20220808_205624/nop_1700_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,135,850      cycles                                                      
+        17,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001074070 seconds time elapsed
+
+File_name = 20220808_205624/nop_1800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,261,183      cycles                                                      
+        18,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001133110 seconds time elapsed
+
+File_name = 20220808_205624/nop_1_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+            14,339      cycles                                                      
+            42,329      instructions              #    2.95  insn per cycle         
+
+       0.000102832 seconds time elapsed
+
+File_name = 20220808_205624/nop_2000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,511,438      cycles                                                      
+        20,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001247567 seconds time elapsed
+
+File_name = 20220808_205624/nop_200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           258,290      cycles                                                      
+         2,032,330      instructions              #    7.87  insn per cycle         
+
+       0.000215831 seconds time elapsed
+
+File_name = 20220808_205624/nop_2100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,636,465      cycles                                                      
+        21,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001306567 seconds time elapsed
+
+File_name = 20220808_205624/nop_2200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,761,825      cycles                                                      
+        22,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001364483 seconds time elapsed
+
+File_name = 20220808_205624/nop_2400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,012,780      cycles                                                      
+        24,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001478481 seconds time elapsed
+
+File_name = 20220808_205624/nop_2600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,262,226      cycles                                                      
+        26,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001590562 seconds time elapsed
+
+File_name = 20220808_205624/nop_2800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,512,755      cycles                                                      
+        28,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001706603 seconds time elapsed
+
+File_name = 20220808_205624/nop_3000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,763,352      cycles                                                      
+        30,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001820602 seconds time elapsed
+
+File_name = 20220808_205624/nop_3200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,013,585      cycles                                                      
+        32,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001940225 seconds time elapsed
+
+File_name = 20220808_205624/nop_3400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,277,116      cycles                                                      
+        34,032,321      instructions              #    7.96  insn per cycle         
+
+       0.002056806 seconds time elapsed
+
+File_name = 20220808_205624/nop_400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           508,748      cycles                                                      
+         4,032,331      instructions              #    7.93  insn per cycle         
+
+       0.000329079 seconds time elapsed
+
+File_name = 20220808_205624/nop_600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           758,810      cycles                                                      
+         6,032,329      instructions              #    7.95  insn per cycle         
+
+       0.000442785 seconds time elapsed
+
+File_name = 20220808_205624/nop_800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,009,263      cycles                                                      
+         8,032,330      instructions              #    7.96  insn per cycle         
+
+       0.000560784 seconds time elapsed
+
+File_name = 20220808_205624/nop_1000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,259,318      cycles                                                      
+        10,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000677616 seconds time elapsed
+
+File_name = 20220808_205624/nop_100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           132,921      cycles                                                      
+         1,032,330      instructions              #    7.77  insn per cycle         
+
+       0.000159706 seconds time elapsed
+
+File_name = 20220808_205624/nop_1200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,509,928      cycles                                                      
+        12,032,319      instructions              #    7.97  insn per cycle         
+
+       0.000789489 seconds time elapsed
+
+File_name = 20220808_205624/nop_1400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,761,197      cycles                                                      
+        14,032,320      instructions              #    7.97  insn per cycle         
+
+       0.000905238 seconds time elapsed
+
+File_name = 20220808_205624/nop_1600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,010,371      cycles                                                      
+        16,032,319      instructions              #    7.97  insn per cycle         
+
+       0.001016987 seconds time elapsed
+
+File_name = 20220808_205624/nop_1700_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,135,845      cycles                                                      
+        17,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001075361 seconds time elapsed
+
+File_name = 20220808_205624/nop_1800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,261,431      cycles                                                      
+        18,032,320      instructions              #    7.97  insn per cycle         
+
+       0.001131693 seconds time elapsed
+
+File_name = 20220808_205624/nop_1_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+            14,594      cycles                                                      
+            42,329      instructions              #    2.90  insn per cycle         
+
+       0.000100832 seconds time elapsed
+
+File_name = 20220808_205624/nop_2000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,511,800      cycles                                                      
+        20,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001249442 seconds time elapsed
+
+File_name = 20220808_205624/nop_200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           258,163      cycles                                                      
+         2,032,330      instructions              #    7.87  insn per cycle         
+
+       0.000212664 seconds time elapsed
+
+File_name = 20220808_205624/nop_2100_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,636,179      cycles                                                      
+        21,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001308608 seconds time elapsed
+
+File_name = 20220808_205624/nop_2200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,762,187      cycles                                                      
+        22,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001361607 seconds time elapsed
+
+File_name = 20220808_205624/nop_2400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,012,168      cycles                                                      
+        24,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001475772 seconds time elapsed
+
+File_name = 20220808_205624/nop_2600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,262,597      cycles                                                      
+        26,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001593104 seconds time elapsed
+
+File_name = 20220808_205624/nop_2800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,512,681      cycles                                                      
+        28,032,320      instructions              #    7.98  insn per cycle         
+
+       0.001706686 seconds time elapsed
+
+File_name = 20220808_205624/nop_3000_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,763,239      cycles                                                      
+        30,032,322      instructions              #    7.98  insn per cycle         
+
+       0.001823726 seconds time elapsed
+
+File_name = 20220808_205624/nop_3200_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,013,897      cycles                                                      
+        32,032,321      instructions              #    7.98  insn per cycle         
+
+       0.001935684 seconds time elapsed
+
+File_name = 20220808_205624/nop_3400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         4,277,868      cycles                                                      
+        34,032,321      instructions              #    7.96  insn per cycle         
+
+       0.002056349 seconds time elapsed
+
+File_name = 20220808_205624/nop_400_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           508,615      cycles                                                      
+         4,032,329      instructions              #    7.93  insn per cycle         
+
+       0.000326496 seconds time elapsed
+
+File_name = 20220808_205624/nop_600_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+           759,127      cycles                                                      
+         6,032,329      instructions              #    7.95  insn per cycle         
+
+       0.000443578 seconds time elapsed
+
+File_name = 20220808_205624/nop_800_d0_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         1,009,030      cycles                                                      
+         8,032,329      instructions              #    7.96  insn per cycle         
+
+       0.000559701 seconds time elapsed
+
+End End End

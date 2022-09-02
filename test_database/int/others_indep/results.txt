@@ -1,0 +1,2882 @@
+Mon 25 Jul 22:59:29 BST 2022
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,118,126      cycles                                                      
+         4,002,319      instructions              #    3.58  insn per cycle         
+
+       0.000637827 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,400,851      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000558661 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,770,330      cycles                                                      
+         6,002,318      instructions              #    3.39  insn per cycle         
+
+       0.000679034 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,049,476      cycles                                                      
+         7,002,319      instructions              #    3.42  insn per cycle         
+
+       0.001052822 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,167,315      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001012573 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,706,010      cycles                                                      
+         9,002,320      instructions              #    3.33  insn per cycle         
+
+       0.001007489 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,307,197      cycles                                                      
+        10,002,319      instructions              #    3.02  insn per cycle         
+
+       0.001215362 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,224,636      cycles                                                      
+        11,002,320      instructions              #    3.41  insn per cycle         
+
+       0.001601733 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,316      cycles                                                      
+         4,002,328      instructions              #    3.99  insn per cycle         
+
+       0.000418287 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,459      cycles                                                      
+         5,002,329      instructions              #    4.98  insn per cycle         
+
+       0.000571161 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,934      cycles                                                      
+         6,002,329      instructions              #    4.49  insn per cycle         
+
+       0.000661826 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,643      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000661951 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,343      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.000759451 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,805      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001097572 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,043      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.000982156 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,045,952      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001503485 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,350      cycles                                                      
+         4,002,318      instructions              #    3.98  insn per cycle         
+
+       0.000521953 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,258      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000420663 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,544      cycles                                                      
+         6,002,318      instructions              #    3.99  insn per cycle         
+
+       0.000586994 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,331      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001024490 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,505,399      cycles                                                      
+         8,002,318      instructions              #    3.19  insn per cycle         
+
+       0.000922074 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,005,352      cycles                                                      
+         9,002,319      instructions              #    3.00  insn per cycle         
+
+       0.001094905 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,505,095      cycles                                                      
+        10,002,320      instructions              #    2.85  insn per cycle         
+
+       0.001261946 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,457      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001800898 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,729      cycles                                                      
+         4,002,328      instructions              #    2.00  insn per cycle         
+
+       0.000756867 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,312      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001956022 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,729      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002637723 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,474      cycles                                                      
+         7,002,332      instructions              #    0.87  insn per cycle         
+
+       0.002768888 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,005,365      cycles                                                      
+         8,002,334      instructions              #    0.80  insn per cycle         
+
+       0.004727119 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,005,221      cycles                                                      
+         9,002,334      instructions              #    0.75  insn per cycle         
+
+       0.005142155 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,554      cycles                                                      
+        10,002,334      instructions              #    0.71  insn per cycle         
+
+       0.006164562 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,661      cycles                                                      
+        11,002,333      instructions              #    0.69  insn per cycle         
+
+       0.005462444 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,125,979      cycles                                                      
+         4,002,319      instructions              #    3.55  insn per cycle         
+
+       0.000563495 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,400,464      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000741784 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,973,387      cycles                                                      
+         6,002,319      instructions              #    3.04  insn per cycle         
+
+       0.000999448 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,051,793      cycles                                                      
+         7,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001036614 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,167,648      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001090155 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,588,340      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001283987 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,892,578      cycles                                                      
+        10,002,319      instructions              #    3.46  insn per cycle         
+
+       0.001425485 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,225,415      cycles                                                      
+        11,002,321      instructions              #    3.41  insn per cycle         
+
+       0.001579568 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,806      cycles                                                      
+         4,002,328      instructions              #    3.98  insn per cycle         
+
+       0.000556411 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,449      cycles                                                      
+         5,002,329      instructions              #    4.98  insn per cycle         
+
+       0.000556578 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,338,345      cycles                                                      
+         6,002,328      instructions              #    4.48  insn per cycle         
+
+       0.000716117 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,713,332      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000879783 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,436      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001015739 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,355      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001190655 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,010      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001322028 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,046,247      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001491027 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,324      cycles                                                      
+         4,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000556369 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,005,017      cycles                                                      
+         5,002,319      instructions              #    4.98  insn per cycle         
+
+       0.000414079 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,471      cycles                                                      
+         6,002,318      instructions              #    3.99  insn per cycle         
+
+       0.000784700 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,438      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001015448 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,054      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.001247945 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,255      cycles                                                      
+         9,002,320      instructions              #    3.00  insn per cycle         
+
+       0.001484985 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,427      cycles                                                      
+        10,002,319      instructions              #    2.85  insn per cycle         
+
+       0.001706483 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,652      cycles                                                      
+        11,002,319      instructions              #    2.75  insn per cycle         
+
+       0.001932064 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,429      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001023907 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,478      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001937397 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,926      cycles                                                      
+         6,002,330      instructions              #    1.00  insn per cycle         
+
+       0.002866096 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,543      cycles                                                      
+         7,002,331      instructions              #    0.87  insn per cycle         
+
+       0.003767212 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,480      cycles                                                      
+         8,002,333      instructions              #    0.80  insn per cycle         
+
+       0.004688952 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,371      cycles                                                      
+         9,002,334      instructions              #    0.75  insn per cycle         
+
+       0.005609109 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,571      cycles                                                      
+        10,002,334      instructions              #    0.71  insn per cycle         
+
+       0.006535474 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,797      cycles                                                      
+        11,002,336      instructions              #    0.69  insn per cycle         
+
+       0.007411757 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,251,921      cycles                                                      
+         4,002,318      instructions              #    3.20  insn per cycle         
+
+       0.000673784 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,666,246      cycles                                                      
+         5,002,318      instructions              #    3.00  insn per cycle         
+
+       0.000862283 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,810,763      cycles                                                      
+         6,002,319      instructions              #    3.31  insn per cycle         
+
+       0.000928782 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,050,472      cycles                                                      
+         7,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001037156 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,167,430      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001091989 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,588,227      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001282321 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,888,452      cycles                                                      
+        10,002,319      instructions              #    3.46  insn per cycle         
+
+       0.001422152 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,269,189      cycles                                                      
+        11,002,320      instructions              #    3.37  insn per cycle         
+
+       0.001595734 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,162      cycles                                                      
+         4,002,328      instructions              #    3.99  insn per cycle         
+
+       0.000553745 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,921      cycles                                                      
+         5,002,328      instructions              #    4.98  insn per cycle         
+
+       0.000554244 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,338,033      cycles                                                      
+         6,002,329      instructions              #    4.49  insn per cycle         
+
+       0.000711243 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,727      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000880575 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,793      cycles                                                      
+         8,002,330      instructions              #    3.99  insn per cycle         
+
+       0.001017323 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,261      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001186779 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,670,982      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001321278 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,046,078      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001491359 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,392      cycles                                                      
+         4,002,319      instructions              #    3.98  insn per cycle         
+
+       0.000560953 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,270      cycles                                                      
+         5,002,319      instructions              #    4.98  insn per cycle         
+
+       0.000558327 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,369      cycles                                                      
+         6,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000785408 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,408      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001013948 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,903      cycles                                                      
+         8,002,319      instructions              #    3.19  insn per cycle         
+
+       0.001245404 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,392      cycles                                                      
+         9,002,319      instructions              #    3.00  insn per cycle         
+
+       0.001475110 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,291      cycles                                                      
+        10,002,320      instructions              #    2.85  insn per cycle         
+
+       0.001704816 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,422      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001931439 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,376      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001017531 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,753      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001931730 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,251      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002848887 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,492      cycles                                                      
+         7,002,331      instructions              #    0.87  insn per cycle         
+
+       0.003766961 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,469      cycles                                                      
+         8,002,333      instructions              #    0.80  insn per cycle         
+
+       0.004687036 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,801      cycles                                                      
+         9,002,334      instructions              #    0.75  insn per cycle         
+
+       0.005605443 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,606      cycles                                                      
+        10,002,335      instructions              #    0.71  insn per cycle         
+
+       0.006520934 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,534      cycles                                                      
+        11,002,336      instructions              #    0.69  insn per cycle         
+
+       0.007448132 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,252,182      cycles                                                      
+         4,002,318      instructions              #    3.20  insn per cycle         
+
+       0.000668076 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,400,309      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000735326 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,769,928      cycles                                                      
+         6,002,320      instructions              #    3.39  insn per cycle         
+
+       0.000909282 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,052,075      cycles                                                      
+         7,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001036865 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,168,013      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001089655 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,587,782      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001285904 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,876,764      cycles                                                      
+        10,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001416402 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,225,562      cycles                                                      
+        11,002,320      instructions              #    3.41  insn per cycle         
+
+       0.001577317 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,498      cycles                                                      
+         4,002,329      instructions              #    3.98  insn per cycle         
+
+       0.000560536 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,309      cycles                                                      
+         5,002,328      instructions              #    4.98  insn per cycle         
+
+       0.000553828 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,508      cycles                                                      
+         6,002,329      instructions              #    4.49  insn per cycle         
+
+       0.000710951 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,975      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000881741 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,493      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001018240 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,544      cycles                                                      
+         9,002,330      instructions              #    3.78  insn per cycle         
+
+       0.001187988 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,670,998      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001319403 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,046,048      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001494027 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,541      cycles                                                      
+         4,002,319      instructions              #    3.98  insn per cycle         
+
+       0.000557869 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,059      cycles                                                      
+         5,002,319      instructions              #    4.98  insn per cycle         
+
+       0.001147863 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,596      cycles                                                      
+         6,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000786492 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,409      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001016407 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,319      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.001245487 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,099      cycles                                                      
+         9,002,319      instructions              #    3.00  insn per cycle         
+
+       0.001474610 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,517      cycles                                                      
+        10,002,319      instructions              #    2.85  insn per cycle         
+
+       0.001704524 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,368      cycles                                                      
+        11,002,321      instructions              #    2.75  insn per cycle         
+
+       0.001933022 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,387      cycles                                                      
+         4,002,330      instructions              #    2.00  insn per cycle         
+
+       0.001014573 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,318      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001934939 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,233      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002854471 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,532      cycles                                                      
+         7,002,332      instructions              #    0.87  insn per cycle         
+
+       0.003769753 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,632      cycles                                                      
+         8,002,333      instructions              #    0.80  insn per cycle         
+
+       0.004686827 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,549      cycles                                                      
+         9,002,333      instructions              #    0.75  insn per cycle         
+
+       0.005614567 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,551      cycles                                                      
+        10,002,334      instructions              #    0.71  insn per cycle         
+
+       0.006531891 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,824      cycles                                                      
+        11,002,335      instructions              #    0.69  insn per cycle         
+
+       0.006985803 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,251,821      cycles                                                      
+         4,002,318      instructions              #    3.20  insn per cycle         
+
+       0.000667451 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,399,895      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000739868 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,770,058      cycles                                                      
+         6,002,319      instructions              #    3.39  insn per cycle         
+
+       0.000909616 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,052,004      cycles                                                      
+         7,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001038031 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,167,302      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001090738 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,587,726      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001282945 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,886,034      cycles                                                      
+        10,002,319      instructions              #    3.47  insn per cycle         
+
+       0.001418694 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,224,576      cycles                                                      
+        11,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001576150 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,613      cycles                                                      
+         4,002,329      instructions              #    3.98  insn per cycle         
+
+       0.000553661 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,318      cycles                                                      
+         5,002,328      instructions              #    4.98  insn per cycle         
+
+       0.000555285 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,920      cycles                                                      
+         6,002,329      instructions              #    4.49  insn per cycle         
+
+       0.000712534 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,932      cycles                                                      
+         7,002,328      instructions              #    4.09  insn per cycle         
+
+       0.000879283 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,613      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001017073 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,453      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001187404 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,410      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001321445 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,045,864      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001495110 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,150      cycles                                                      
+         4,002,319      instructions              #    3.99  insn per cycle         
+
+       0.001158488 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,271      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000412079 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,210      cycles                                                      
+         6,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000794242 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,320      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.000751742 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,221      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.000917198 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,547      cycles                                                      
+         9,002,319      instructions              #    3.00  insn per cycle         
+
+       0.001371986 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,751      cycles                                                      
+        10,002,319      instructions              #    2.85  insn per cycle         
+
+       0.001251695 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,527      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001936439 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,400      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.000748201 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,545      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001950730 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,290      cycles                                                      
+         6,002,330      instructions              #    1.00  insn per cycle         
+
+       0.002095145 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,623      cycles                                                      
+         7,002,331      instructions              #    0.87  insn per cycle         
+
+       0.002761805 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,419      cycles                                                      
+         8,002,332      instructions              #    0.80  insn per cycle         
+
+       0.003448256 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,708      cycles                                                      
+         9,002,332      instructions              #    0.75  insn per cycle         
+
+       0.004119291 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,433      cycles                                                      
+        10,002,333      instructions              #    0.71  insn per cycle         
+
+       0.004795575 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,945      cycles                                                      
+        11,002,336      instructions              #    0.69  insn per cycle         
+
+       0.007465506 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,067,228      cycles                                                      
+         4,002,320      instructions              #    3.75  insn per cycle         
+
+       0.000586786 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,400,383      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000738492 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,770,157      cycles                                                      
+         6,002,319      instructions              #    3.39  insn per cycle         
+
+       0.000907782 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,051,009      cycles                                                      
+         7,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001036240 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,167,741      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001087364 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,588,527      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001281112 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,883,721      cycles                                                      
+        10,002,320      instructions              #    3.47  insn per cycle         
+
+       0.001417069 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,225,067      cycles                                                      
+        11,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001581067 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,378      cycles                                                      
+         4,002,329      instructions              #    3.98  insn per cycle         
+
+       0.000555119 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,947      cycles                                                      
+         5,002,329      instructions              #    4.98  insn per cycle         
+
+       0.000559870 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,706      cycles                                                      
+         6,002,328      instructions              #    4.49  insn per cycle         
+
+       0.000707660 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,649      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000885449 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,201      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001014573 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,378,851      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001186737 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,067      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001318737 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,045,741      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001491985 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,325      cycles                                                      
+         4,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000563328 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,005,055      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000555911 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,435      cycles                                                      
+         6,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000784617 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,202      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001013823 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,288      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.001242612 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,369      cycles                                                      
+         9,002,320      instructions              #    3.00  insn per cycle         
+
+       0.001475235 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,302      cycles                                                      
+        10,002,320      instructions              #    2.85  insn per cycle         
+
+       0.001702440 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,579      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001930688 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,171      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001015281 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,090      cycles                                                      
+         5,002,331      instructions              #    1.25  insn per cycle         
+
+       0.001938814 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,326      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002857637 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,190      cycles                                                      
+         7,002,331      instructions              #    0.87  insn per cycle         
+
+       0.003769295 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,382      cycles                                                      
+         8,002,332      instructions              #    0.80  insn per cycle         
+
+       0.004684244 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,005,187      cycles                                                      
+         9,002,333      instructions              #    0.75  insn per cycle         
+
+       0.005609609 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,548      cycles                                                      
+        10,002,335      instructions              #    0.71  insn per cycle         
+
+       0.006533891 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,541      cycles                                                      
+        11,002,336      instructions              #    0.69  insn per cycle         
+
+       0.007441715 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,035,617      cycles                                                      
+         4,002,319      instructions              #    3.86  insn per cycle         
+
+       0.000573286 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,399,163      cycles                                                      
+         5,002,318      instructions              #    3.58  insn per cycle         
+
+       0.000736535 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,769,184      cycles                                                      
+         6,002,319      instructions              #    3.39  insn per cycle         
+
+       0.000908283 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,050,218      cycles                                                      
+         7,002,319      instructions              #    3.42  insn per cycle         
+
+       0.001034281 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,168,616      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001089780 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,587,665      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001284612 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,881,970      cycles                                                      
+        10,002,320      instructions              #    3.47  insn per cycle         
+
+       0.001421611 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,224,212      cycles                                                      
+        11,002,320      instructions              #    3.41  insn per cycle         
+
+       0.001574817 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,151      cycles                                                      
+         4,002,329      instructions              #    3.99  insn per cycle         
+
+       0.000557369 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,555      cycles                                                      
+         5,002,329      instructions              #    4.98  insn per cycle         
+
+       0.000557120 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,779      cycles                                                      
+         6,002,328      instructions              #    4.49  insn per cycle         
+
+       0.000707368 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,684      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000879575 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,542      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001016156 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,367      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001185071 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,670,855      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001318528 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,045,890      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001492151 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,592      cycles                                                      
+         4,002,319      instructions              #    3.98  insn per cycle         
+
+       0.000561077 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,338      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000556286 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,505,128      cycles                                                      
+         6,002,320      instructions              #    3.99  insn per cycle         
+
+       0.000787367 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,064      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001015531 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,305      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.001243403 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,294      cycles                                                      
+         9,002,320      instructions              #    3.00  insn per cycle         
+
+       0.001473235 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,307      cycles                                                      
+        10,002,320      instructions              #    2.85  insn per cycle         
+
+       0.001703191 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,187      cycles                                                      
+        11,002,319      instructions              #    2.75  insn per cycle         
+
+       0.001930313 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,003,953      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001015073 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,944      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001936730 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,005,363      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002852888 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,317      cycles                                                      
+         7,002,332      instructions              #    0.87  insn per cycle         
+
+       0.003773044 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,618      cycles                                                      
+         8,002,332      instructions              #    0.80  insn per cycle         
+
+       0.004685702 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,005,095      cycles                                                      
+         9,002,333      instructions              #    0.75  insn per cycle         
+
+       0.005620234 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,790      cycles                                                      
+        10,002,334      instructions              #    0.71  insn per cycle         
+
+       0.004952783 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,005,264      cycles                                                      
+        11,002,333      instructions              #    0.69  insn per cycle         
+
+       0.005470653 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,219,369      cycles                                                      
+         4,002,319      instructions              #    3.28  insn per cycle         
+
+       0.000746659 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,399,981      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000737826 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,856,196      cycles                                                      
+         6,002,319      instructions              #    3.23  insn per cycle         
+
+       0.000946991 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,051,407      cycles                                                      
+         7,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001035864 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,168,675      cycles                                                      
+         8,002,319      instructions              #    3.69  insn per cycle         
+
+       0.001088614 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,586,987      cycles                                                      
+         9,002,319      instructions              #    3.48  insn per cycle         
+
+       0.001281362 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,883,944      cycles                                                      
+        10,002,319      instructions              #    3.47  insn per cycle         
+
+       0.001417902 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,226,183      cycles                                                      
+        11,002,320      instructions              #    3.41  insn per cycle         
+
+       0.001576025 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,114      cycles                                                      
+         4,002,328      instructions              #    3.99  insn per cycle         
+
+       0.000555911 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,350      cycles                                                      
+         5,002,328      instructions              #    4.98  insn per cycle         
+
+       0.000554203 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,805      cycles                                                      
+         6,002,329      instructions              #    4.49  insn per cycle         
+
+       0.000711118 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,601      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000879783 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,005,023      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001013239 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,386      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001186155 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,206      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001322945 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,045,945      cycles                                                      
+        11,002,330      instructions              #    3.61  insn per cycle         
+
+       0.001501442 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,436      cycles                                                      
+         4,002,318      instructions              #    3.98  insn per cycle         
+
+       0.000558203 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,911      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000554703 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,422      cycles                                                      
+         6,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000785158 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,347      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001013073 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,004      cycles                                                      
+         8,002,320      instructions              #    3.20  insn per cycle         
+
+       0.001247321 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,439      cycles                                                      
+         9,002,319      instructions              #    3.00  insn per cycle         
+
+       0.001475443 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,152      cycles                                                      
+        10,002,319      instructions              #    2.85  insn per cycle         
+
+       0.001703275 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,171      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001932355 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,214      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001018364 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,038      cycles                                                      
+         5,002,329      instructions              #    1.25  insn per cycle         
+
+       0.001938772 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,393      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002855095 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,076      cycles                                                      
+         7,002,332      instructions              #    0.87  insn per cycle         
+
+       0.003772336 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,307      cycles                                                      
+         8,002,333      instructions              #    0.80  insn per cycle         
+
+       0.004687077 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,380      cycles                                                      
+         9,002,333      instructions              #    0.75  insn per cycle         
+
+       0.005609276 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,883      cycles                                                      
+        10,002,334      instructions              #    0.71  insn per cycle         
+
+       0.006531225 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,989      cycles                                                      
+        11,002,335      instructions              #    0.69  insn per cycle         
+
+       0.007454632 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,035,612      cycles                                                      
+         4,002,319      instructions              #    3.86  insn per cycle         
+
+       0.000573161 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,400,275      cycles                                                      
+         5,002,319      instructions              #    3.57  insn per cycle         
+
+       0.000745743 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,043,864      cycles                                                      
+         6,002,319      instructions              #    2.94  insn per cycle         
+
+       0.001038615 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,050,886      cycles                                                      
+         7,002,318      instructions              #    3.41  insn per cycle         
+
+       0.001038323 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,399,213      cycles                                                      
+         8,002,319      instructions              #    3.34  insn per cycle         
+
+       0.001197863 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,587,738      cycles                                                      
+         9,002,320      instructions              #    3.48  insn per cycle         
+
+       0.001283195 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,884,390      cycles                                                      
+        10,002,319      instructions              #    3.47  insn per cycle         
+
+       0.001420110 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,225,240      cycles                                                      
+        11,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001575109 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,664      cycles                                                      
+         4,002,328      instructions              #    3.98  insn per cycle         
+
+       0.000558369 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,418      cycles                                                      
+         5,002,329      instructions              #    4.98  insn per cycle         
+
+       0.000556244 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,519      cycles                                                      
+         6,002,328      instructions              #    4.49  insn per cycle         
+
+       0.000707451 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,749      cycles                                                      
+         7,002,328      instructions              #    4.09  insn per cycle         
+
+       0.000886116 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,241      cycles                                                      
+         8,002,328      instructions              #    3.99  insn per cycle         
+
+       0.001017322 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,470      cycles                                                      
+         9,002,330      instructions              #    3.78  insn per cycle         
+
+       0.001196321 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,178      cycles                                                      
+        10,002,329      instructions              #    3.74  insn per cycle         
+
+       0.001320195 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,045,808      cycles                                                      
+        11,002,329      instructions              #    3.61  insn per cycle         
+
+       0.001493943 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,572      cycles                                                      
+         4,002,319      instructions              #    3.98  insn per cycle         
+
+       0.000557953 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,125      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000553411 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,378      cycles                                                      
+         6,002,318      instructions              #    3.99  insn per cycle         
+
+       0.000786534 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,543      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001018531 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,556      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.001244154 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,402      cycles                                                      
+         9,002,320      instructions              #    3.00  insn per cycle         
+
+       0.001478151 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,209      cycles                                                      
+        10,002,321      instructions              #    2.85  insn per cycle         
+
+       0.001706399 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,501      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001934439 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,340      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001015531 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,660      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001935188 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,651      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002857637 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,506      cycles                                                      
+         7,002,331      instructions              #    0.87  insn per cycle         
+
+       0.003769628 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,742      cycles                                                      
+         8,002,333      instructions              #    0.80  insn per cycle         
+
+       0.004696994 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,397      cycles                                                      
+         9,002,334      instructions              #    0.75  insn per cycle         
+
+       0.005606735 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,418      cycles                                                      
+        10,002,335      instructions              #    0.71  insn per cycle         
+
+       0.006536266 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,618      cycles                                                      
+        11,002,335      instructions              #    0.69  insn per cycle         
+
+       0.007444882 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,073      cycles                                                      
+         4,002,319      instructions              #    3.99  insn per cycle         
+
+       0.000557828 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,399,581      cycles                                                      
+         5,002,318      instructions              #    3.57  insn per cycle         
+
+       0.000736409 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,771,477      cycles                                                      
+         6,002,319      instructions              #    3.39  insn per cycle         
+
+       0.000913907 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,053,980      cycles                                                      
+         7,002,320      instructions              #    3.41  insn per cycle         
+
+       0.001040198 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,480,624      cycles                                                      
+         8,002,319      instructions              #    3.23  insn per cycle         
+
+       0.001237570 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,589,372      cycles                                                      
+         9,002,321      instructions              #    3.48  insn per cycle         
+
+       0.002673014 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,881,685      cycles                                                      
+        10,002,320      instructions              #    3.47  insn per cycle         
+
+       0.001426027 seconds time elapsed
+
+File_name = 20220725_225929/and_reg_asr_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,224,787      cycles                                                      
+        11,002,319      instructions              #    3.41  insn per cycle         
+
+       0.001574859 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,365      cycles                                                      
+         4,002,329      instructions              #    3.98  insn per cycle         
+
+       0.000557578 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,555      cycles                                                      
+         5,002,329      instructions              #    4.98  insn per cycle         
+
+       0.000559660 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,337,947      cycles                                                      
+         6,002,329      instructions              #    4.49  insn per cycle         
+
+       0.000713118 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,712,967      cycles                                                      
+         7,002,329      instructions              #    4.09  insn per cycle         
+
+       0.000882074 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,272      cycles                                                      
+         8,002,329      instructions              #    3.99  insn per cycle         
+
+       0.001017990 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,379,305      cycles                                                      
+         9,002,329      instructions              #    3.78  insn per cycle         
+
+       0.001194321 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,671,354      cycles                                                      
+        10,002,331      instructions              #    3.74  insn per cycle         
+
+       0.001327528 seconds time elapsed
+
+File_name = 20220725_225929/cmp_imm_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,046,094      cycles                                                      
+        11,002,330      instructions              #    3.61  insn per cycle         
+
+       0.001493943 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,197      cycles                                                      
+         4,002,318      instructions              #    3.99  insn per cycle         
+
+       0.000558411 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,004,399      cycles                                                      
+         5,002,318      instructions              #    4.98  insn per cycle         
+
+       0.000555369 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         1,504,369      cycles                                                      
+         6,002,320      instructions              #    3.99  insn per cycle         
+
+       0.000789283 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,241      cycles                                                      
+         7,002,319      instructions              #    3.49  insn per cycle         
+
+       0.001018156 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,504,326      cycles                                                      
+         8,002,319      instructions              #    3.20  insn per cycle         
+
+       0.001246154 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,004,406      cycles                                                      
+         9,002,319      instructions              #    3.00  insn per cycle         
+
+       0.001477026 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         3,504,345      cycles                                                      
+        10,002,320      instructions              #    2.85  insn per cycle         
+
+       0.001707441 seconds time elapsed
+
+File_name = 20220725_225929/mul_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,313      cycles                                                      
+        11,002,320      instructions              #    2.75  insn per cycle         
+
+       0.001935105 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_1
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         2,004,148      cycles                                                      
+         4,002,329      instructions              #    2.00  insn per cycle         
+
+       0.001016781 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_2
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         4,004,288      cycles                                                      
+         5,002,330      instructions              #    1.25  insn per cycle         
+
+       0.001932188 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_3
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         6,004,296      cycles                                                      
+         6,002,331      instructions              #    1.00  insn per cycle         
+
+       0.002857971 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_4
+0
+ Performance counter stats for 'CPU(s) 4':
+
+         8,004,150      cycles                                                      
+         7,002,331      instructions              #    0.87  insn per cycle         
+
+       0.003767670 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_5
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        10,004,467      cycles                                                      
+         8,002,333      instructions              #    0.80  insn per cycle         
+
+       0.004697911 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_6
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        12,004,469      cycles                                                      
+         9,002,333      instructions              #    0.75  insn per cycle         
+
+       0.005617609 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_7
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        14,004,580      cycles                                                      
+        10,002,335      instructions              #    0.71  insn per cycle         
+
+       0.006531850 seconds time elapsed
+
+File_name = 20220725_225929/sdiv_fast_64_8
+0
+ Performance counter stats for 'CPU(s) 4':
+
+        16,004,590      cycles                                                      
+        11,002,336      instructions              #    0.69  insn per cycle         
+
+       0.007449090 seconds time elapsed
+
+End End End

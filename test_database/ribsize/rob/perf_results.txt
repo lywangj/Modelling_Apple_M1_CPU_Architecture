@@ -1,0 +1,902 @@
+Tue  9 Aug 16:18:21 BST 2022
+File_name = 20220809_161820/add_fabs_mixed_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,879,882      cycles                                                      
+        20,232,332      instructions              #    5.21  insn per cycle         
+
+       0.003429712 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,506      cycles                                                      
+         2,232,331      instructions              #    1.11  insn per cycle         
+
+       0.002124685 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,855      cycles                                                      
+         4,232,331      instructions              #    2.11  insn per cycle         
+
+       0.002113352 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_250_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,605      cycles                                                      
+         5,232,331      instructions              #    2.61  insn per cycle         
+
+       0.002121060 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_260_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,866      cycles                                                      
+         5,432,331      instructions              #    2.71  insn per cycle         
+
+       0.002120560 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_270_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,813      cycles                                                      
+         5,632,330      instructions              #    2.81  insn per cycle         
+
+       0.002107852 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_280_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,214      cycles                                                      
+         5,832,331      instructions              #    2.91  insn per cycle         
+
+       0.002101893 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_290_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,230      cycles                                                      
+         6,032,331      instructions              #    3.01  insn per cycle         
+
+       0.001865188 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,068      cycles                                                      
+         6,232,331      instructions              #    3.11  insn per cycle         
+
+       0.002107268 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_310_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,122,348      cycles                                                      
+         6,432,331      instructions              #    3.03  insn per cycle         
+
+       0.002231225 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_320_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,177,511      cycles                                                      
+         6,632,332      instructions              #    3.05  insn per cycle         
+
+       0.002281350 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_330_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,202,736      cycles                                                      
+         6,832,330      instructions              #    3.10  insn per cycle         
+
+       0.001109779 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_340_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,227,449      cycles                                                      
+         7,032,331      instructions              #    3.16  insn per cycle         
+
+       0.002312641 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_350_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,252,641      cycles                                                      
+         7,232,331      instructions              #    3.21  insn per cycle         
+
+       0.002356891 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,377,828      cycles                                                      
+         8,232,331      instructions              #    3.46  insn per cycle         
+
+       0.002451807 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,628,047      cycles                                                      
+        10,232,331      instructions              #    3.89  insn per cycle         
+
+       0.002707179 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,878,862      cycles                                                      
+        12,232,330      instructions              #    4.25  insn per cycle         
+
+       0.001420776 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,128,506      cycles                                                      
+        14,232,332      instructions              #    4.55  insn per cycle         
+
+       0.003169631 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,378,840      cycles                                                      
+        16,232,332      instructions              #    4.80  insn per cycle         
+
+       0.002841219 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,629,069      cycles                                                      
+        18,232,333      instructions              #    5.02  insn per cycle         
+
+       0.003643293 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,879,476      cycles                                                      
+        20,232,333      instructions              #    5.22  insn per cycle         
+
+       0.003873874 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,616      cycles                                                      
+         2,232,331      instructions              #    1.11  insn per cycle         
+
+       0.002091018 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,395      cycles                                                      
+         4,232,331      instructions              #    2.11  insn per cycle         
+
+       0.002103560 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_250_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,813      cycles                                                      
+         5,232,331      instructions              #    2.61  insn per cycle         
+
+       0.002105102 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_260_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,898      cycles                                                      
+         5,432,331      instructions              #    2.71  insn per cycle         
+
+       0.002092269 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_270_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,830      cycles                                                      
+         5,632,332      instructions              #    2.81  insn per cycle         
+
+       0.002106143 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_280_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,824      cycles                                                      
+         5,832,331      instructions              #    2.91  insn per cycle         
+
+       0.002086811 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_290_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,532      cycles                                                      
+         6,032,330      instructions              #    3.01  insn per cycle         
+
+       0.002106143 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,793      cycles                                                      
+         6,232,331      instructions              #    3.11  insn per cycle         
+
+       0.002090601 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_310_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,122,000      cycles                                                      
+         6,432,331      instructions              #    3.03  insn per cycle         
+
+       0.002205184 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_320_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,177,200      cycles                                                      
+         6,632,331      instructions              #    3.05  insn per cycle         
+
+       0.002259808 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_330_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,202,571      cycles                                                      
+         6,832,332      instructions              #    3.10  insn per cycle         
+
+       0.002293599 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_340_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,227,309      cycles                                                      
+         7,032,331      instructions              #    3.16  insn per cycle         
+
+       0.002302975 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_350_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,252,518      cycles                                                      
+         7,232,331      instructions              #    3.21  insn per cycle         
+
+       0.002326183 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,377,537      cycles                                                      
+         8,232,331      instructions              #    3.46  insn per cycle         
+
+       0.002464181 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,628,396      cycles                                                      
+        10,232,330      instructions              #    3.89  insn per cycle         
+
+       0.001301069 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,877,977      cycles                                                      
+        12,232,332      instructions              #    4.25  insn per cycle         
+
+       0.002918634 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,128,221      cycles                                                      
+        14,232,332      instructions              #    4.55  insn per cycle         
+
+       0.003168548 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,378,671      cycles                                                      
+        16,232,332      instructions              #    4.80  insn per cycle         
+
+       0.003389296 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,628,566      cycles                                                      
+        18,232,331      instructions              #    5.02  insn per cycle         
+
+       0.002740511 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,879,286      cycles                                                      
+        20,232,332      instructions              #    5.22  insn per cycle         
+
+       0.003873457 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,237      cycles                                                      
+         2,232,331      instructions              #    1.11  insn per cycle         
+
+       0.002089435 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,606      cycles                                                      
+         4,232,331      instructions              #    2.11  insn per cycle         
+
+       0.002090560 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_250_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,806      cycles                                                      
+         5,232,331      instructions              #    2.61  insn per cycle         
+
+       0.002089269 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_260_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,625      cycles                                                      
+         5,432,331      instructions              #    2.71  insn per cycle         
+
+       0.002094977 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_270_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,817      cycles                                                      
+         5,632,331      instructions              #    2.81  insn per cycle         
+
+       0.001962604 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_280_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,492      cycles                                                      
+         5,832,331      instructions              #    2.91  insn per cycle         
+
+       0.002092476 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_290_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,181      cycles                                                      
+         6,032,331      instructions              #    3.01  insn per cycle         
+
+       0.002111434 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,997      cycles                                                      
+         6,232,332      instructions              #    3.11  insn per cycle         
+
+       0.002109851 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_310_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,122,795      cycles                                                      
+         6,432,331      instructions              #    3.03  insn per cycle         
+
+       0.002076393 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_320_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,177,642      cycles                                                      
+         6,632,331      instructions              #    3.05  insn per cycle         
+
+       0.002256016 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_330_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,202,749      cycles                                                      
+         6,832,331      instructions              #    3.10  insn per cycle         
+
+       0.002163310 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_340_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,228,272      cycles                                                      
+         7,032,331      instructions              #    3.16  insn per cycle         
+
+       0.002316725 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_350_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,252,769      cycles                                                      
+         7,232,331      instructions              #    3.21  insn per cycle         
+
+       0.002328141 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,377,926      cycles                                                      
+         8,232,332      instructions              #    3.46  insn per cycle         
+
+       0.002468723 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,627,976      cycles                                                      
+        10,232,331      instructions              #    3.89  insn per cycle         
+
+       0.002701595 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,878,579      cycles                                                      
+        12,232,332      instructions              #    4.25  insn per cycle         
+
+       0.002283058 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,128,090      cycles                                                      
+        14,232,332      instructions              #    4.55  insn per cycle         
+
+       0.003172423 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,378,864      cycles                                                      
+        16,232,332      instructions              #    4.80  insn per cycle         
+
+       0.003397712 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,629,239      cycles                                                      
+        18,232,332      instructions              #    5.02  insn per cycle         
+
+       0.003634376 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,879,067      cycles                                                      
+        20,232,332      instructions              #    5.22  insn per cycle         
+
+       0.003876124 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,490      cycles                                                      
+         2,232,331      instructions              #    1.11  insn per cycle         
+
+       0.002105851 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,897      cycles                                                      
+         4,232,331      instructions              #    2.11  insn per cycle         
+
+       0.002101685 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_250_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,771      cycles                                                      
+         5,232,330      instructions              #    2.61  insn per cycle         
+
+       0.002096310 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_260_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,059      cycles                                                      
+         5,432,331      instructions              #    2.71  insn per cycle         
+
+       0.002109727 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_270_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,073,306      cycles                                                      
+         5,632,331      instructions              #    2.72  insn per cycle         
+
+       0.002158351 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_280_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,181      cycles                                                      
+         5,832,332      instructions              #    2.91  insn per cycle         
+
+       0.001875188 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_290_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,926      cycles                                                      
+         6,032,331      instructions              #    3.01  insn per cycle         
+
+       0.002103102 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,593      cycles                                                      
+         6,232,330      instructions              #    3.11  insn per cycle         
+
+       0.000860532 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_310_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,122,790      cycles                                                      
+         6,432,330      instructions              #    3.03  insn per cycle         
+
+       0.001068739 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_320_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,177,666      cycles                                                      
+         6,632,332      instructions              #    3.05  insn per cycle         
+
+       0.002251975 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_330_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,202,980      cycles                                                      
+         6,832,331      instructions              #    3.10  insn per cycle         
+
+       0.002021770 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_340_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,228,695      cycles                                                      
+         7,032,331      instructions              #    3.16  insn per cycle         
+
+       0.000954697 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_350_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,252,870      cycles                                                      
+         7,232,330      instructions              #    3.21  insn per cycle         
+
+       0.001130737 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,378,153      cycles                                                      
+         8,232,331      instructions              #    3.46  insn per cycle         
+
+       0.001958062 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,628,734      cycles                                                      
+        10,232,330      instructions              #    3.89  insn per cycle         
+
+       0.001103613 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,878,190      cycles                                                      
+        12,232,332      instructions              #    4.25  insn per cycle         
+
+       0.002963092 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,128,653      cycles                                                      
+        14,232,332      instructions              #    4.55  insn per cycle         
+
+       0.003186631 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,378,872      cycles                                                      
+        16,232,332      instructions              #    4.80  insn per cycle         
+
+       0.002178560 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,630,864      cycles                                                      
+        18,232,332      instructions              #    5.02  insn per cycle         
+
+       0.001397277 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_1000_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,879,069      cycles                                                      
+        20,232,333      instructions              #    5.22  insn per cycle         
+
+       0.003882415 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_100_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,178      cycles                                                      
+         2,232,331      instructions              #    1.11  insn per cycle         
+
+       0.002097060 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_200_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,139      cycles                                                      
+         4,232,330      instructions              #    2.11  insn per cycle         
+
+       0.000808574 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_250_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,934      cycles                                                      
+         5,232,332      instructions              #    2.61  insn per cycle         
+
+       0.002099144 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_260_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,685      cycles                                                      
+         5,432,331      instructions              #    2.71  insn per cycle         
+
+       0.002094393 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_270_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,004,960      cycles                                                      
+         5,632,331      instructions              #    2.81  insn per cycle         
+
+       0.002110560 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_280_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,213      cycles                                                      
+         5,832,330      instructions              #    2.91  insn per cycle         
+
+       0.000858574 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_290_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,860      cycles                                                      
+         6,032,330      instructions              #    3.01  insn per cycle         
+
+       0.000811324 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_300_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,005,474      cycles                                                      
+         6,232,330      instructions              #    3.11  insn per cycle         
+
+       0.000810282 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_310_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,122,169      cycles                                                      
+         6,432,331      instructions              #    3.03  insn per cycle         
+
+       0.002207101 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_320_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,177,756      cycles                                                      
+         6,632,331      instructions              #    3.05  insn per cycle         
+
+       0.002258933 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_330_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,202,635      cycles                                                      
+         6,832,331      instructions              #    3.10  insn per cycle         
+
+       0.002296892 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_340_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,228,077      cycles                                                      
+         7,032,330      instructions              #    3.16  insn per cycle         
+
+       0.000947156 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_350_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,252,644      cycles                                                      
+         7,232,331      instructions              #    3.21  insn per cycle         
+
+       0.002359391 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_400_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,378,136      cycles                                                      
+         8,232,332      instructions              #    3.46  insn per cycle         
+
+       0.002445556 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_500_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,628,910      cycles                                                      
+        10,232,330      instructions              #    3.89  insn per cycle         
+
+       0.001111279 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_600_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         2,879,198      cycles                                                      
+        12,232,332      instructions              #    4.25  insn per cycle         
+
+       0.001421818 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_700_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,129,060      cycles                                                      
+        14,232,331      instructions              #    4.55  insn per cycle         
+
+       0.001712231 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_800_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,379,598      cycles                                                      
+        16,232,331      instructions              #    4.80  insn per cycle         
+
+       0.002085852 seconds time elapsed
+
+File_name = 20220809_161820/add_fabs_mixed_900_d20_L100
+0
+ Performance counter stats for 'CPU(s) 7':
+
+         3,629,000      cycles                                                      
+        18,232,332      instructions              #    5.02  insn per cycle         
+
+       0.003647668 seconds time elapsed
+
+End End End
