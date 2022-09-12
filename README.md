@@ -16,6 +16,10 @@ microarchitecture in an attempt to achieve accuracy within 10% of the real machi
 
 ### Work 
 
+**Microarchitecture for modelling Apple's M1 Firestorm**
+
+<img src="test_analysis/6p1.png" height="360">
+
 This project will first look at the principles and techniques that have been commonly applied
 in microarchitecture. Next, the configuration of SimEng simulator is introduced. These key
 factors include the structure of execution units, the sizes of specific buffers, and the bandwidths
