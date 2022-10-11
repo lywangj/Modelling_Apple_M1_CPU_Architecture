@@ -16,6 +16,8 @@ microarchitecture in an attempt to achieve accuracy within 10% of the real machi
 
 ### Work 
 
+<img src="image/2022-10-11_010603.png" height="480">
+
 **Microarchitecture for modelling Apple's M1 Firestorm**
 
 <img src="test_analysis/6p1.png" height="360">
@@ -30,6 +32,10 @@ will be analyzed, and compared with the perf results, followed by an evaluation 
 simulator in terms of accuracy.
 
 ### Analysis and Evaluation
+
+<img src="image/2022-10-11_010650.png" height="480">
+
+<img src="image/2022-10-11_010738.png" height="480">
 
 According to these results, the SimEng simulator can demonstrate the crucial characteristics
 of fourteen execution units, which are unit counts, latency, and throughput, among different
