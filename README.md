@@ -5,7 +5,7 @@ Apple M1 processor simulator with SimEng (a processor simulation framework)
 
 SimEng: https://github.com/UoB-HPC/SimEng/tree/m1-dev
 
-M1 Config file: ()[config/]
+M1 Config file: [m1fs_v1p3](configs/m1fs_v1p3.yaml)
 
 ### Aims and Objectives 
 
