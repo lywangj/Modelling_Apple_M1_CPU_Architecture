@@ -1,7 +1,11 @@
 # SummerProject
 2021-22 Summer Project in Computer Science
 
-Apple M1 processor simulator
+Apple M1 processor simulator with SimEng (a processor simulation framework)
+
+SimEng: https://github.com/UoB-HPC/SimEng/tree/m1-dev
+
+M1 Config file: ()[config/]
 
 ### Aims and Objectives 
 
